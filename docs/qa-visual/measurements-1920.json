@@ -1,0 +1,5347 @@
+{
+  "viewport": "1920",
+  "timestamp": "2026-10-11T10:20:46.866Z",
+  "overflow": [
+    {
+      "page": "Beranda",
+      "mode": "normal",
+      "hasOverflow": false,
+      "scrollWidth": 1905,
+      "windowWidth": 1920,
+      "offendingElements": []
+    },
+    {
+      "page": "Beranda",
+      "mode": "kelas",
+      "hasOverflow": false,
+      "scrollWidth": 1905,
+      "windowWidth": 1920,
+      "offendingElements": []
+    },
+    {
+      "page": "Topik-01",
+      "tab": "eksplorasi",
+      "mode": "normal",
+      "hasOverflow": false,
+      "scrollWidth": 1905,
+      "windowWidth": 1920,
+      "offendingElements": []
+    },
+    {
+      "page": "Topik-02",
+      "tab": "eksplorasi",
+      "mode": "normal",
+      "hasOverflow": false,
+      "scrollWidth": 1905,
+      "windowWidth": 1920,
+      "offendingElements": []
+    },
+    {
+      "page": "Topik-03",
+      "tab": "eksplorasi",
+      "mode": "normal",
+      "hasOverflow": false,
+      "scrollWidth": 1905,
+      "windowWidth": 1920,
+      "offendingElements": []
+    },
+    {
+      "page": "Topik-04",
+      "tab": "eksplorasi",
+      "mode": "normal",
+      "hasOverflow": false,
+      "scrollWidth": 1905,
+      "windowWidth": 1920,
+      "offendingElements": []
+    },
+    {
+      "page": "Topik-05",
+      "tab": "eksplorasi",
+      "mode": "normal",
+      "hasOverflow": false,
+      "scrollWidth": 1905,
+      "windowWidth": 1920,
+      "offendingElements": []
+    },
+    {
+      "page": "Topik-06",
+      "tab": "eksplorasi",
+      "mode": "normal",
+      "hasOverflow": false,
+      "scrollWidth": 1905,
+      "windowWidth": 1920,
+      "offendingElements": []
+    },
+    {
+      "page": "Topik-07",
+      "tab": "eksplorasi",
+      "mode": "normal",
+      "hasOverflow": false,
+      "scrollWidth": 1905,
+      "windowWidth": 1920,
+      "offendingElements": []
+    },
+    {
+      "page": "Topik-08",
+      "tab": "eksplorasi",
+      "mode": "normal",
+      "hasOverflow": false,
+      "scrollWidth": 1905,
+      "windowWidth": 1920,
+      "offendingElements": []
+    },
+    {
+      "page": "Topik-09",
+      "tab": "eksplorasi",
+      "mode": "normal",
+      "hasOverflow": false,
+      "scrollWidth": 1905,
+      "windowWidth": 1920,
+      "offendingElements": []
+    },
+    {
+      "page": "Topik-10",
+      "tab": "eksplorasi",
+      "mode": "normal",
+      "hasOverflow": false,
+      "scrollWidth": 1905,
+      "windowWidth": 1920,
+      "offendingElements": []
+    },
+    {
+      "page": "Topik-01",
+      "tab": "konsep",
+      "mode": "normal",
+      "hasOverflow": false,
+      "scrollWidth": 1905,
+      "windowWidth": 1920,
+      "offendingElements": []
+    },
+    {
+      "page": "Topik-01",
+      "tab": "latihan",
+      "mode": "normal",
+      "hasOverflow": false,
+      "scrollWidth": 1920,
+      "windowWidth": 1920,
+      "offendingElements": []
+    },
+    {
+      "page": "Topik-01",
+      "tab": "kuis",
+      "mode": "normal",
+      "hasOverflow": false,
+      "scrollWidth": 1920,
+      "windowWidth": 1920,
+      "offendingElements": []
+    },
+    {
+      "page": "Topik-02",
+      "tab": "konsep",
+      "mode": "normal",
+      "hasOverflow": false,
+      "scrollWidth": 1905,
+      "windowWidth": 1920,
+      "offendingElements": []
+    },
+    {
+      "page": "Topik-02",
+      "tab": "latihan",
+      "mode": "normal",
+      "hasOverflow": false,
+      "scrollWidth": 1920,
+      "windowWidth": 1920,
+      "offendingElements": []
+    },
+    {
+      "page": "Topik-02",
+      "tab": "kuis",
+      "mode": "normal",
+      "hasOverflow": false,
+      "scrollWidth": 1920,
+      "windowWidth": 1920,
+      "offendingElements": []
+    },
+    {
+      "page": "Topik-03",
+      "tab": "konsep",
+      "mode": "normal",
+      "hasOverflow": false,
+      "scrollWidth": 1920,
+      "windowWidth": 1920,
+      "offendingElements": []
+    },
+    {
+      "page": "Topik-03",
+      "tab": "latihan",
+      "mode": "normal",
+      "hasOverflow": false,
+      "scrollWidth": 1920,
+      "windowWidth": 1920,
+      "offendingElements": []
+    },
+    {
+      "page": "Topik-03",
+      "tab": "kuis",
+      "mode": "normal",
+      "hasOverflow": false,
+      "scrollWidth": 1920,
+      "windowWidth": 1920,
+      "offendingElements": []
+    },
+    {
+      "page": "Topik-04",
+      "tab": "konsep",
+      "mode": "normal",
+      "hasOverflow": false,
+      "scrollWidth": 1920,
+      "windowWidth": 1920,
+      "offendingElements": []
+    },
+    {
+      "page": "Topik-04",
+      "tab": "latihan",
+      "mode": "normal",
+      "hasOverflow": false,
+      "scrollWidth": 1920,
+      "windowWidth": 1920,
+      "offendingElements": []
+    },
+    {
+      "page": "Topik-04",
+      "tab": "kuis",
+      "mode": "normal",
+      "hasOverflow": false,
+      "scrollWidth": 1920,
+      "windowWidth": 1920,
+      "offendingElements": []
+    },
+    {
+      "page": "Topik-05",
+      "tab": "konsep",
+      "mode": "normal",
+      "hasOverflow": false,
+      "scrollWidth": 1920,
+      "windowWidth": 1920,
+      "offendingElements": []
+    },
+    {
+      "page": "Topik-05",
+      "tab": "latihan",
+      "mode": "normal",
+      "hasOverflow": false,
+      "scrollWidth": 1920,
+      "windowWidth": 1920,
+      "offendingElements": []
+    },
+    {
+      "page": "Topik-05",
+      "tab": "kuis",
+      "mode": "normal",
+      "hasOverflow": false,
+      "scrollWidth": 1920,
+      "windowWidth": 1920,
+      "offendingElements": []
+    },
+    {
+      "page": "Topik-06",
+      "tab": "konsep",
+      "mode": "normal",
+      "hasOverflow": false,
+      "scrollWidth": 1920,
+      "windowWidth": 1920,
+      "offendingElements": []
+    },
+    {
+      "page": "Topik-06",
+      "tab": "latihan",
+      "mode": "normal",
+      "hasOverflow": false,
+      "scrollWidth": 1920,
+      "windowWidth": 1920,
+      "offendingElements": []
+    },
+    {
+      "page": "Topik-06",
+      "tab": "kuis",
+      "mode": "normal",
+      "hasOverflow": false,
+      "scrollWidth": 1920,
+      "windowWidth": 1920,
+      "offendingElements": []
+    },
+    {
+      "page": "Topik-07",
+      "tab": "konsep",
+      "mode": "normal",
+      "hasOverflow": false,
+      "scrollWidth": 1920,
+      "windowWidth": 1920,
+      "offendingElements": []
+    },
+    {
+      "page": "Topik-07",
+      "tab": "latihan",
+      "mode": "normal",
+      "hasOverflow": false,
+      "scrollWidth": 1920,
+      "windowWidth": 1920,
+      "offendingElements": []
+    },
+    {
+      "page": "Topik-07",
+      "tab": "kuis",
+      "mode": "normal",
+      "hasOverflow": false,
+      "scrollWidth": 1920,
+      "windowWidth": 1920,
+      "offendingElements": []
+    },
+    {
+      "page": "Topik-08",
+      "tab": "konsep",
+      "mode": "normal",
+      "hasOverflow": false,
+      "scrollWidth": 1920,
+      "windowWidth": 1920,
+      "offendingElements": []
+    },
+    {
+      "page": "Topik-08",
+      "tab": "latihan",
+      "mode": "normal",
+      "hasOverflow": false,
+      "scrollWidth": 1920,
+      "windowWidth": 1920,
+      "offendingElements": []
+    },
+    {
+      "page": "Topik-08",
+      "tab": "kuis",
+      "mode": "normal",
+      "hasOverflow": false,
+      "scrollWidth": 1920,
+      "windowWidth": 1920,
+      "offendingElements": []
+    },
+    {
+      "page": "Topik-09",
+      "tab": "konsep",
+      "mode": "normal",
+      "hasOverflow": false,
+      "scrollWidth": 1920,
+      "windowWidth": 1920,
+      "offendingElements": []
+    },
+    {
+      "page": "Topik-09",
+      "tab": "latihan",
+      "mode": "normal",
+      "hasOverflow": false,
+      "scrollWidth": 1920,
+      "windowWidth": 1920,
+      "offendingElements": []
+    },
+    {
+      "page": "Topik-09",
+      "tab": "kuis",
+      "mode": "normal",
+      "hasOverflow": false,
+      "scrollWidth": 1920,
+      "windowWidth": 1920,
+      "offendingElements": []
+    },
+    {
+      "page": "Topik-10",
+      "tab": "konsep",
+      "mode": "normal",
+      "hasOverflow": false,
+      "scrollWidth": 1905,
+      "windowWidth": 1920,
+      "offendingElements": []
+    },
+    {
+      "page": "Topik-10",
+      "tab": "latihan",
+      "mode": "normal",
+      "hasOverflow": false,
+      "scrollWidth": 1920,
+      "windowWidth": 1920,
+      "offendingElements": []
+    },
+    {
+      "page": "Topik-10",
+      "tab": "kuis",
+      "mode": "normal",
+      "hasOverflow": false,
+      "scrollWidth": 1920,
+      "windowWidth": 1920,
+      "offendingElements": []
+    }
+  ],
+  "fonts": [
+    {
+      "page": "Beranda",
+      "mode": "normal",
+      "smallFonts": [
+        {
+          "tag": "span",
+          "className": "card-topic-number",
+          "text": "01",
+          "fontSize": 13.12,
+          "lineHeight": "normal"
+        },
+        {
+          "tag": "span",
+          "className": "card-status-badge badge-new",
+          "text": "Belum dicoba",
+          "fontSize": 12.8,
+          "lineHeight": "normal"
+        },
+        {
+          "tag": "text",
+          "className": "",
+          "text": "r",
+          "fontSize": 12,
+          "lineHeight": "normal"
+        },
+        {
+          "tag": "text",
+          "className": "",
+          "text": "O",
+          "fontSize": 11,
+          "lineHeight": "normal"
+        },
+        {
+          "tag": "text",
+          "className": "",
+          "text": "tali busur",
+          "fontSize": 10,
+          "lineHeight": "normal"
+        },
+        {
+          "tag": "span",
+          "className": "card-topic-number",
+          "text": "02",
+          "fontSize": 13.12,
+          "lineHeight": "normal"
+        },
+        {
+          "tag": "span",
+          "className": "card-status-badge badge-new",
+          "text": "Belum dicoba",
+          "fontSize": 12.8,
+          "lineHeight": "normal"
+        },
+        {
+          "tag": "text",
+          "className": "",
+          "text": "0",
+          "fontSize": 9,
+          "lineHeight": "normal"
+        },
+        {
+          "tag": "text",
+          "className": "",
+          "text": "π·d/2",
+          "fontSize": 9,
+          "lineHeight": "normal"
+        },
+        {
+          "tag": "text",
+          "className": "",
+          "text": "K = π·d",
+          "fontSize": 9,
+          "lineHeight": "normal"
+        },
+        {
+          "tag": "text",
+          "className": "",
+          "text": "d = 2r",
+          "fontSize": 11,
+          "lineHeight": "normal"
+        },
+        {
+          "tag": "span",
+          "className": "card-topic-number",
+          "text": "03",
+          "fontSize": 13.12,
+          "lineHeight": "normal"
+        },
+        {
+          "tag": "span",
+          "className": "card-status-badge badge-new",
+          "text": "Belum dicoba",
+          "fontSize": 12.8,
+          "lineHeight": "normal"
+        },
+        {
+          "tag": "text",
+          "className": "",
+          "text": "panjang = π·r",
+          "fontSize": 9.5,
+          "lineHeight": "normal"
+        },
+        {
+          "tag": "span",
+          "className": "card-topic-number",
+          "text": "04",
+          "fontSize": 13.12,
+          "lineHeight": "normal"
+        },
+        {
+          "tag": "span",
+          "className": "card-status-badge badge-new",
+          "text": "Belum dicoba",
+          "fontSize": 12.8,
+          "lineHeight": "normal"
+        },
+        {
+          "tag": "text",
+          "className": "",
+          "text": "2α",
+          "fontSize": 11,
+          "lineHeight": "normal"
+        },
+        {
+          "tag": "text",
+          "className": "",
+          "text": "α",
+          "fontSize": 11,
+          "lineHeight": "normal"
+        },
+        {
+          "tag": "span",
+          "className": "card-topic-number",
+          "text": "05",
+          "fontSize": 13.12,
+          "lineHeight": "normal"
+        },
+        {
+          "tag": "span",
+          "className": "card-status-badge badge-new",
+          "text": "Belum dicoba",
+          "fontSize": 12.8,
+          "lineHeight": "normal"
+        },
+        {
+          "tag": "text",
+          "className": "",
+          "text": "P",
+          "fontSize": 10,
+          "lineHeight": "normal"
+        },
+        {
+          "tag": "span",
+          "className": "card-topic-number",
+          "text": "06",
+          "fontSize": 13.12,
+          "lineHeight": "normal"
+        },
+        {
+          "tag": "span",
+          "className": "card-status-badge badge-new",
+          "text": "Belum dicoba",
+          "fontSize": 12.8,
+          "lineHeight": "normal"
+        },
+        {
+          "tag": "text",
+          "className": "",
+          "text": "∠A",
+          "fontSize": 10,
+          "lineHeight": "normal"
+        },
+        {
+          "tag": "text",
+          "className": "",
+          "text": "∠C",
+          "fontSize": 10,
+          "lineHeight": "normal"
+        }
+      ],
+      "totalSmall": 39,
+      "highlights": []
+    },
+    {
+      "page": "Beranda",
+      "mode": "kelas",
+      "smallFonts": [],
+      "totalSmall": 0,
+      "highlights": [
+        {
+          "selector": "progress-number",
+          "text": "0 / 10",
+          "fontSize": 40
+        },
+        {
+          "selector": "card-topic-number",
+          "text": "01",
+          "fontSize": 13.12
+        },
+        {
+          "selector": "card-topic-number",
+          "text": "02",
+          "fontSize": 13.12
+        },
+        {
+          "selector": "card-topic-number",
+          "text": "03",
+          "fontSize": 13.12
+        },
+        {
+          "selector": "card-topic-number",
+          "text": "04",
+          "fontSize": 13.12
+        },
+        {
+          "selector": "card-topic-number",
+          "text": "05",
+          "fontSize": 13.12
+        },
+        {
+          "selector": "card-topic-number",
+          "text": "06",
+          "fontSize": 13.12
+        },
+        {
+          "selector": "card-topic-number",
+          "text": "07",
+          "fontSize": 13.12
+        },
+        {
+          "selector": "card-topic-number",
+          "text": "08",
+          "fontSize": 13.12
+        },
+        {
+          "selector": "card-topic-number",
+          "text": "09",
+          "fontSize": 13.12
+        },
+        {
+          "selector": "card-topic-number",
+          "text": "10",
+          "fontSize": 13.12
+        }
+      ]
+    },
+    {
+      "page": "Topik-01",
+      "tab": "eksplorasi",
+      "mode": "normal",
+      "smallFonts": [
+        {
+          "tag": "span",
+          "className": "topic-eyebrow-unified",
+          "text": "Rumpun I · Topik 01 dari 10",
+          "fontSize": 13.44,
+          "lineHeight": "normal"
+        },
+        {
+          "tag": "span",
+          "className": "stat-label",
+          "text": "Jari-jari r",
+          "fontSize": 12.48,
+          "lineHeight": "16.224px"
+        },
+        {
+          "tag": "span",
+          "className": "stat-label",
+          "text": "Diameter d",
+          "fontSize": 12.48,
+          "lineHeight": "16.224px"
+        },
+        {
+          "tag": "span",
+          "className": "stat-label",
+          "text": "Panjang tali busur AB",
+          "fontSize": 12.48,
+          "lineHeight": "16.224px"
+        },
+        {
+          "tag": "span",
+          "className": "stat-label",
+          "text": "Apotema",
+          "fontSize": 12.48,
+          "lineHeight": "16.224px"
+        },
+        {
+          "tag": "span",
+          "className": "vlist-s",
+          "text": "​",
+          "fontSize": 1,
+          "lineHeight": "1.2px"
+        }
+      ],
+      "totalSmall": 6,
+      "highlights": []
+    },
+    {
+      "page": "Topik-01",
+      "tab": "eksplorasi",
+      "mode": "kelas",
+      "smallFonts": [],
+      "totalSmall": 0,
+      "highlights": [
+        {
+          "selector": "topic-title-unified",
+          "text": "Unsur-unsur lingkara",
+          "fontSize": 41.6
+        },
+        {
+          "selector": "stat-value",
+          "text": "145 cm",
+          "fontSize": 44.8
+        },
+        {
+          "selector": "stat-value",
+          "text": "290 cm",
+          "fontSize": 44.8
+        },
+        {
+          "selector": "stat-value",
+          "text": "283.0 cm",
+          "fontSize": 44.8
+        },
+        {
+          "selector": "stat-value",
+          "text": "31.8 cm",
+          "fontSize": 44.8
+        }
+      ]
+    },
+    {
+      "page": "Topik-02",
+      "tab": "eksplorasi",
+      "mode": "normal",
+      "smallFonts": [
+        {
+          "tag": "span",
+          "className": "topic-eyebrow-unified",
+          "text": "Rumpun I · Topik 02 dari 10",
+          "fontSize": 13.44,
+          "lineHeight": "normal"
+        },
+        {
+          "tag": "span",
+          "className": "stat-label",
+          "text": "Jari-jari r",
+          "fontSize": 12.48,
+          "lineHeight": "16.224px"
+        },
+        {
+          "tag": "span",
+          "className": "stat-label",
+          "text": "Diameter d",
+          "fontSize": 12.48,
+          "lineHeight": "16.224px"
+        },
+        {
+          "tag": "span",
+          "className": "stat-label",
+          "text": "Keliling K",
+          "fontSize": 12.48,
+          "lineHeight": "16.224px"
+        },
+        {
+          "tag": "span",
+          "className": "stat-label",
+          "text": "Rasio K ÷ d",
+          "fontSize": 12.48,
+          "lineHeight": "16.224px"
+        }
+      ],
+      "totalSmall": 5,
+      "highlights": []
+    },
+    {
+      "page": "Topik-02",
+      "tab": "eksplorasi",
+      "mode": "kelas",
+      "smallFonts": [],
+      "totalSmall": 0,
+      "highlights": [
+        {
+          "selector": "topic-title-unified",
+          "text": "Keliling lingkaran",
+          "fontSize": 41.6
+        },
+        {
+          "selector": "stat-value",
+          "text": "7 cm",
+          "fontSize": 44.8
+        },
+        {
+          "selector": "stat-value",
+          "text": "14 cm",
+          "fontSize": 44.8
+        },
+        {
+          "selector": "stat-value",
+          "text": "44.00 cm",
+          "fontSize": 44.8
+        },
+        {
+          "selector": "stat-value",
+          "text": "3.143",
+          "fontSize": 44.8
+        }
+      ]
+    },
+    {
+      "page": "Topik-03",
+      "tab": "eksplorasi",
+      "mode": "normal",
+      "smallFonts": [
+        {
+          "tag": "span",
+          "className": "topic-eyebrow-unified",
+          "text": "Rumpun I · Topik 03 dari 10",
+          "fontSize": 13.44,
+          "lineHeight": "normal"
+        },
+        {
+          "tag": "span",
+          "className": "stat-label",
+          "text": "Jari-jari r",
+          "fontSize": 12.48,
+          "lineHeight": "16.224px"
+        },
+        {
+          "tag": "span",
+          "className": "stat-label",
+          "text": "Luas L",
+          "fontSize": 12.48,
+          "lineHeight": "16.224px"
+        },
+        {
+          "tag": "span",
+          "className": "stat-label",
+          "text": "r",
+          "fontSize": 12.48,
+          "lineHeight": "16.224px"
+        },
+        {
+          "tag": "span",
+          "className": "",
+          "text": "Lebar susunan ≈",
+          "fontSize": 12.48,
+          "lineHeight": "16.224px"
+        },
+        {
+          "tag": "span",
+          "className": "pi-symbol",
+          "text": "π",
+          "fontSize": 12.48,
+          "lineHeight": "16.224px"
+        },
+        {
+          "tag": "span",
+          "className": "stat-label",
+          "text": "Tinggi susunan",
+          "fontSize": 12.48,
+          "lineHeight": "16.224px"
+        }
+      ],
+      "totalSmall": 7,
+      "highlights": []
+    },
+    {
+      "page": "Topik-03",
+      "tab": "eksplorasi",
+      "mode": "kelas",
+      "smallFonts": [],
+      "totalSmall": 0,
+      "highlights": [
+        {
+          "selector": "topic-title-unified",
+          "text": "Luas lingkaran",
+          "fontSize": 41.6
+        },
+        {
+          "selector": "stat-value",
+          "text": "7 cm",
+          "fontSize": 44.8
+        },
+        {
+          "selector": "stat-value",
+          "text": "154.00 cm²",
+          "fontSize": 44.8
+        },
+        {
+          "selector": "stat-value",
+          "text": "22.00 cm",
+          "fontSize": 44.8
+        },
+        {
+          "selector": "stat-value",
+          "text": "7 cm",
+          "fontSize": 44.8
+        }
+      ]
+    },
+    {
+      "page": "Topik-04",
+      "tab": "eksplorasi",
+      "mode": "normal",
+      "smallFonts": [
+        {
+          "tag": "span",
+          "className": "topic-eyebrow-unified",
+          "text": "Rumpun II · Topik 04 dari 10",
+          "fontSize": 13.44,
+          "lineHeight": "normal"
+        },
+        {
+          "tag": "span",
+          "className": "stat-label",
+          "text": "Sudut pusat ∠AOB",
+          "fontSize": 12.48,
+          "lineHeight": "16.224px"
+        },
+        {
+          "tag": "span",
+          "className": "stat-label",
+          "text": "Sudut keliling ∠ACB",
+          "fontSize": 12.48,
+          "lineHeight": "16.224px"
+        },
+        {
+          "tag": "span",
+          "className": "stat-label",
+          "text": "Sudut keliling ∠ADB",
+          "fontSize": 12.48,
+          "lineHeight": "16.224px"
+        },
+        {
+          "tag": "span",
+          "className": "stat-label",
+          "text": "2 × ∠ACB",
+          "fontSize": 12.48,
+          "lineHeight": "16.224px"
+        }
+      ],
+      "totalSmall": 5,
+      "highlights": []
+    },
+    {
+      "page": "Topik-04",
+      "tab": "eksplorasi",
+      "mode": "kelas",
+      "smallFonts": [],
+      "totalSmall": 0,
+      "highlights": [
+        {
+          "selector": "topic-title-unified",
+          "text": "Sudut pusat dan sudu",
+          "fontSize": 41.6
+        },
+        {
+          "selector": "stat-value",
+          "text": "120.3°",
+          "fontSize": 44.8
+        },
+        {
+          "selector": "stat-value",
+          "text": "60.2°",
+          "fontSize": 44.8
+        },
+        {
+          "selector": "stat-value",
+          "text": "60.2°",
+          "fontSize": 44.8
+        },
+        {
+          "selector": "stat-value",
+          "text": "120.3°",
+          "fontSize": 44.8
+        }
+      ]
+    },
+    {
+      "page": "Topik-05",
+      "tab": "eksplorasi",
+      "mode": "normal",
+      "smallFonts": [
+        {
+          "tag": "span",
+          "className": "topic-eyebrow-unified",
+          "text": "Rumpun II · Topik 05 dari 10",
+          "fontSize": 13.44,
+          "lineHeight": "normal"
+        },
+        {
+          "tag": "span",
+          "className": "stat-label",
+          "text": "Sudut perpotongan",
+          "fontSize": 12.48,
+          "lineHeight": "16.224px"
+        },
+        {
+          "tag": "span",
+          "className": "stat-label",
+          "text": "Busur pertama",
+          "fontSize": 12.48,
+          "lineHeight": "16.224px"
+        },
+        {
+          "tag": "span",
+          "className": "stat-label",
+          "text": "Busur lawan",
+          "fontSize": 12.48,
+          "lineHeight": "16.224px"
+        },
+        {
+          "tag": "span",
+          "className": "vlist-s",
+          "text": "​",
+          "fontSize": 1,
+          "lineHeight": "1.2px"
+        },
+        {
+          "tag": "span",
+          "className": "vlist-s",
+          "text": "​",
+          "fontSize": 1,
+          "lineHeight": "1.2px"
+        },
+        {
+          "tag": "span",
+          "className": "vlist-s",
+          "text": "​",
+          "fontSize": 1,
+          "lineHeight": "1.2px"
+        }
+      ],
+      "totalSmall": 7,
+      "highlights": []
+    },
+    {
+      "page": "Topik-05",
+      "tab": "eksplorasi",
+      "mode": "kelas",
+      "smallFonts": [],
+      "totalSmall": 0,
+      "highlights": [
+        {
+          "selector": "topic-title-unified",
+          "text": "Sudut antara dua tal",
+          "fontSize": 41.6
+        },
+        {
+          "selector": "stat-value",
+          "text": "87.1°",
+          "fontSize": 44.8
+        },
+        {
+          "selector": "stat-value",
+          "text": "84.3°",
+          "fontSize": 44.8
+        },
+        {
+          "selector": "stat-value",
+          "text": "90.0°",
+          "fontSize": 44.8
+        }
+      ]
+    },
+    {
+      "page": "Topik-06",
+      "tab": "eksplorasi",
+      "mode": "normal",
+      "smallFonts": [
+        {
+          "tag": "span",
+          "className": "topic-eyebrow-unified",
+          "text": "Rumpun II · Topik 06 dari 10",
+          "fontSize": 13.44,
+          "lineHeight": "normal"
+        },
+        {
+          "tag": "span",
+          "className": "stat-label",
+          "text": "Sudut A",
+          "fontSize": 12.48,
+          "lineHeight": "16.224px"
+        },
+        {
+          "tag": "span",
+          "className": "stat-label",
+          "text": "Sudut B",
+          "fontSize": 12.48,
+          "lineHeight": "16.224px"
+        },
+        {
+          "tag": "span",
+          "className": "stat-label",
+          "text": "Sudut C",
+          "fontSize": 12.48,
+          "lineHeight": "16.224px"
+        },
+        {
+          "tag": "span",
+          "className": "stat-label",
+          "text": "Sudut D",
+          "fontSize": 12.48,
+          "lineHeight": "16.224px"
+        },
+        {
+          "tag": "span",
+          "className": "stat-label",
+          "text": "Jumlah A + C",
+          "fontSize": 12.48,
+          "lineHeight": "16.224px"
+        },
+        {
+          "tag": "span",
+          "className": "stat-label",
+          "text": "Jumlah B + D",
+          "fontSize": 12.48,
+          "lineHeight": "16.224px"
+        }
+      ],
+      "totalSmall": 7,
+      "highlights": []
+    },
+    {
+      "page": "Topik-06",
+      "tab": "eksplorasi",
+      "mode": "kelas",
+      "smallFonts": [],
+      "totalSmall": 0,
+      "highlights": [
+        {
+          "selector": "topic-title-unified",
+          "text": "Segi empat tali busu",
+          "fontSize": 41.6
+        },
+        {
+          "selector": "stat-value",
+          "text": "100.3°",
+          "fontSize": 44.8
+        },
+        {
+          "selector": "stat-value",
+          "text": "91.2°",
+          "fontSize": 44.8
+        },
+        {
+          "selector": "stat-value",
+          "text": "79.7°",
+          "fontSize": 44.8
+        },
+        {
+          "selector": "stat-value",
+          "text": "88.8°",
+          "fontSize": 44.8
+        },
+        {
+          "selector": "stat-value",
+          "text": "180.0°",
+          "fontSize": 44.8
+        },
+        {
+          "selector": "stat-value",
+          "text": "180.0°",
+          "fontSize": 44.8
+        }
+      ]
+    },
+    {
+      "page": "Topik-07",
+      "tab": "eksplorasi",
+      "mode": "normal",
+      "smallFonts": [
+        {
+          "tag": "span",
+          "className": "topic-eyebrow-unified",
+          "text": "Rumpun III · Topik 07 dari 10",
+          "fontSize": 13.44,
+          "lineHeight": "normal"
+        },
+        {
+          "tag": "span",
+          "className": "stat-label",
+          "text": "Sisi a, b, c",
+          "fontSize": 12.48,
+          "lineHeight": "16.224px"
+        },
+        {
+          "tag": "span",
+          "className": "stat-label",
+          "text": "Luas L",
+          "fontSize": 12.48,
+          "lineHeight": "16.224px"
+        },
+        {
+          "tag": "span",
+          "className": "stat-label",
+          "text": "Setengah keliling s",
+          "fontSize": 12.48,
+          "lineHeight": "16.224px"
+        },
+        {
+          "tag": "span",
+          "className": "stat-label",
+          "text": "Jari-jari dalam r",
+          "fontSize": 12.48,
+          "lineHeight": "16.224px"
+        },
+        {
+          "tag": "span",
+          "className": "stat-label",
+          "text": "Jarak I ke sisi a",
+          "fontSize": 12.48,
+          "lineHeight": "16.224px"
+        },
+        {
+          "tag": "span",
+          "className": "stat-label",
+          "text": "Jarak I ke sisi b",
+          "fontSize": 12.48,
+          "lineHeight": "16.224px"
+        },
+        {
+          "tag": "span",
+          "className": "stat-label",
+          "text": "Jarak I ke sisi c",
+          "fontSize": 12.48,
+          "lineHeight": "16.224px"
+        },
+        {
+          "tag": "span",
+          "className": "vlist-s",
+          "text": "​",
+          "fontSize": 1,
+          "lineHeight": "1.2px"
+        }
+      ],
+      "totalSmall": 9,
+      "highlights": []
+    },
+    {
+      "page": "Topik-07",
+      "tab": "eksplorasi",
+      "mode": "kelas",
+      "smallFonts": [],
+      "totalSmall": 0,
+      "highlights": [
+        {
+          "selector": "topic-title-unified",
+          "text": "Lingkaran dalam segi",
+          "fontSize": 41.6
+        },
+        {
+          "selector": "stat-value",
+          "text": "339.71; 246.98; 340.",
+          "fontSize": 44.8
+        },
+        {
+          "selector": "stat-value",
+          "text": "39100.00 satuan²",
+          "fontSize": 44.8
+        },
+        {
+          "selector": "stat-value",
+          "text": "463.34",
+          "fontSize": 44.8
+        },
+        {
+          "selector": "stat-value",
+          "text": "84.39",
+          "fontSize": 44.8
+        },
+        {
+          "selector": "stat-value",
+          "text": "84.39",
+          "fontSize": 44.8
+        },
+        {
+          "selector": "stat-value",
+          "text": "84.39",
+          "fontSize": 44.8
+        },
+        {
+          "selector": "stat-value",
+          "text": "84.39",
+          "fontSize": 44.8
+        }
+      ]
+    },
+    {
+      "page": "Topik-08",
+      "tab": "eksplorasi",
+      "mode": "normal",
+      "smallFonts": [
+        {
+          "tag": "span",
+          "className": "topic-eyebrow-unified",
+          "text": "Rumpun III · Topik 08 dari 10",
+          "fontSize": 13.44,
+          "lineHeight": "normal"
+        },
+        {
+          "tag": "span",
+          "className": "stat-label",
+          "text": "Sisi a, b, c",
+          "fontSize": 12.48,
+          "lineHeight": "16.224px"
+        },
+        {
+          "tag": "span",
+          "className": "stat-label",
+          "text": "Luas L",
+          "fontSize": 12.48,
+          "lineHeight": "16.224px"
+        },
+        {
+          "tag": "span",
+          "className": "stat-label",
+          "text": "Pusat O",
+          "fontSize": 12.48,
+          "lineHeight": "16.224px"
+        },
+        {
+          "tag": "span",
+          "className": "stat-label",
+          "text": "Jari-jari luar R",
+          "fontSize": 12.48,
+          "lineHeight": "16.224px"
+        },
+        {
+          "tag": "span",
+          "className": "stat-label",
+          "text": "Letak O",
+          "fontSize": 12.48,
+          "lineHeight": "16.224px"
+        },
+        {
+          "tag": "span",
+          "className": "vlist-s",
+          "text": "​",
+          "fontSize": 1,
+          "lineHeight": "1.2px"
+        }
+      ],
+      "totalSmall": 7,
+      "highlights": []
+    },
+    {
+      "page": "Topik-08",
+      "tab": "eksplorasi",
+      "mode": "kelas",
+      "smallFonts": [],
+      "totalSmall": 0,
+      "highlights": [
+        {
+          "selector": "topic-title-unified",
+          "text": "Lingkaran luar segit",
+          "fontSize": 41.6
+        },
+        {
+          "selector": "stat-value",
+          "text": "288.14; 288.14; 360.",
+          "fontSize": 44.8
+        },
+        {
+          "selector": "stat-value",
+          "text": "40500.00 satuan²",
+          "fontSize": 44.8
+        },
+        {
+          "selector": "stat-value",
+          "text": "(350.00, 289.50)",
+          "fontSize": 44.8
+        },
+        {
+          "selector": "stat-value",
+          "text": "184.50",
+          "fontSize": 44.8
+        },
+        {
+          "selector": "stat-value",
+          "text": "di dalam",
+          "fontSize": 44.8
+        }
+      ]
+    },
+    {
+      "page": "Topik-09",
+      "tab": "eksplorasi",
+      "mode": "normal",
+      "smallFonts": [
+        {
+          "tag": "span",
+          "className": "topic-eyebrow-unified",
+          "text": "Rumpun IV · Topik 09 dari 10",
+          "fontSize": 13.44,
+          "lineHeight": "normal"
+        },
+        {
+          "tag": "span",
+          "className": "stat-label",
+          "text": "OT ⟂ PT",
+          "fontSize": 12.48,
+          "lineHeight": "16.224px"
+        },
+        {
+          "tag": "span",
+          "className": "stat-label",
+          "text": "Posisi sudut T",
+          "fontSize": 12.48,
+          "lineHeight": "16.224px"
+        }
+      ],
+      "totalSmall": 3,
+      "highlights": []
+    },
+    {
+      "page": "Topik-09",
+      "tab": "eksplorasi",
+      "mode": "kelas",
+      "smallFonts": [],
+      "totalSmall": 0,
+      "highlights": [
+        {
+          "selector": "topic-title-unified",
+          "text": "Garis singgung lingk",
+          "fontSize": 41.6
+        },
+        {
+          "selector": "stat-value",
+          "text": "90°",
+          "fontSize": 44.8
+        },
+        {
+          "selector": "stat-value",
+          "text": "20.1°",
+          "fontSize": 44.8
+        }
+      ]
+    },
+    {
+      "page": "Topik-10",
+      "tab": "eksplorasi",
+      "mode": "normal",
+      "smallFonts": [
+        {
+          "tag": "span",
+          "className": "topic-eyebrow-unified",
+          "text": "Rumpun IV · Topik 10 dari 10",
+          "fontSize": 13.44,
+          "lineHeight": "normal"
+        },
+        {
+          "tag": "span",
+          "className": "stat-label",
+          "text": "Jarak pusat d",
+          "fontSize": 12.48,
+          "lineHeight": "16.224px"
+        },
+        {
+          "tag": "span",
+          "className": "stat-label",
+          "text": "R + r",
+          "fontSize": 12.48,
+          "lineHeight": "16.224px"
+        },
+        {
+          "tag": "span",
+          "className": "stat-label",
+          "text": "R − r",
+          "fontSize": 12.48,
+          "lineHeight": "16.224px"
+        },
+        {
+          "tag": "span",
+          "className": "stat-label",
+          "text": "Titik persekutuan",
+          "fontSize": 12.48,
+          "lineHeight": "16.224px"
+        },
+        {
+          "tag": "span",
+          "className": "stat-label",
+          "text": "Garis singgung persekutuan",
+          "fontSize": 12.48,
+          "lineHeight": "16.224px"
+        }
+      ],
+      "totalSmall": 6,
+      "highlights": []
+    },
+    {
+      "page": "Topik-10",
+      "tab": "eksplorasi",
+      "mode": "kelas",
+      "smallFonts": [],
+      "totalSmall": 0,
+      "highlights": [
+        {
+          "selector": "topic-title-unified",
+          "text": "Kedudukan dua lingka",
+          "fontSize": 41.6
+        },
+        {
+          "selector": "stat-value",
+          "text": "315.00",
+          "fontSize": 44.8
+        },
+        {
+          "selector": "stat-value",
+          "text": "170.00",
+          "fontSize": 44.8
+        },
+        {
+          "selector": "stat-value",
+          "text": "40.00",
+          "fontSize": 44.8
+        },
+        {
+          "selector": "stat-value",
+          "text": "0",
+          "fontSize": 44.8
+        },
+        {
+          "selector": "stat-value",
+          "text": "4",
+          "fontSize": 44.8
+        }
+      ]
+    },
+    {
+      "page": "Topik-01",
+      "tab": "konsep",
+      "mode": "normal",
+      "smallFonts": [
+        {
+          "tag": "span",
+          "className": "topic-eyebrow-unified",
+          "text": "Rumpun I · Topik 01 dari 10",
+          "fontSize": 13.44,
+          "lineHeight": "normal"
+        },
+        {
+          "tag": "span",
+          "className": "vlist-s",
+          "text": "​",
+          "fontSize": 1,
+          "lineHeight": "1.2px"
+        },
+        {
+          "tag": "span",
+          "className": "vlist-s",
+          "text": "​",
+          "fontSize": 1,
+          "lineHeight": "1.2px"
+        },
+        {
+          "tag": "span",
+          "className": "vlist-s",
+          "text": "​",
+          "fontSize": 1,
+          "lineHeight": "1.2px"
+        },
+        {
+          "tag": "span",
+          "className": "vlist-s",
+          "text": "​",
+          "fontSize": 1,
+          "lineHeight": "1.2px"
+        },
+        {
+          "tag": "span",
+          "className": "vlist-s",
+          "text": "​",
+          "fontSize": 1,
+          "lineHeight": "1.2px"
+        },
+        {
+          "tag": "span",
+          "className": "vlist-s",
+          "text": "​",
+          "fontSize": 1,
+          "lineHeight": "1.2px"
+        },
+        {
+          "tag": "span",
+          "className": "vlist-s",
+          "text": "​",
+          "fontSize": 1,
+          "lineHeight": "1.2px"
+        },
+        {
+          "tag": "span",
+          "className": "vlist-s",
+          "text": "​",
+          "fontSize": 1,
+          "lineHeight": "1.2px"
+        },
+        {
+          "tag": "span",
+          "className": "vlist-s",
+          "text": "​",
+          "fontSize": 1,
+          "lineHeight": "1.2px"
+        },
+        {
+          "tag": "span",
+          "className": "vlist-s",
+          "text": "​",
+          "fontSize": 1,
+          "lineHeight": "1.2px"
+        },
+        {
+          "tag": "span",
+          "className": "vlist-s",
+          "text": "​",
+          "fontSize": 1,
+          "lineHeight": "1.2px"
+        },
+        {
+          "tag": "span",
+          "className": "vlist-s",
+          "text": "​",
+          "fontSize": 1,
+          "lineHeight": "1.2px"
+        },
+        {
+          "tag": "span",
+          "className": "vlist-s",
+          "text": "​",
+          "fontSize": 1,
+          "lineHeight": "1.2px"
+        },
+        {
+          "tag": "span",
+          "className": "vlist-s",
+          "text": "​",
+          "fontSize": 1,
+          "lineHeight": "1.2px"
+        },
+        {
+          "tag": "span",
+          "className": "vlist-s",
+          "text": "​",
+          "fontSize": 1,
+          "lineHeight": "1.2px"
+        }
+      ],
+      "totalSmall": 16,
+      "highlights": []
+    },
+    {
+      "page": "Topik-01",
+      "tab": "konsep",
+      "mode": "kelas",
+      "smallFonts": [],
+      "totalSmall": 0,
+      "highlights": [
+        {
+          "selector": "topic-title-unified",
+          "text": "Unsur-unsur lingkara",
+          "fontSize": 41.6
+        }
+      ]
+    },
+    {
+      "page": "Topik-01",
+      "tab": "latihan",
+      "mode": "normal",
+      "smallFonts": [
+        {
+          "tag": "span",
+          "className": "topic-eyebrow-unified",
+          "text": "Rumpun I · Topik 01 dari 10",
+          "fontSize": 13.44,
+          "lineHeight": "normal"
+        }
+      ],
+      "totalSmall": 1,
+      "highlights": []
+    },
+    {
+      "page": "Topik-01",
+      "tab": "latihan",
+      "mode": "kelas",
+      "smallFonts": [],
+      "totalSmall": 0,
+      "highlights": [
+        {
+          "selector": "topic-title-unified",
+          "text": "Unsur-unsur lingkara",
+          "fontSize": 41.6
+        }
+      ]
+    },
+    {
+      "page": "Topik-01",
+      "tab": "kuis",
+      "mode": "normal",
+      "smallFonts": [
+        {
+          "tag": "span",
+          "className": "topic-eyebrow-unified",
+          "text": "Rumpun I · Topik 01 dari 10",
+          "fontSize": 13.44,
+          "lineHeight": "normal"
+        }
+      ],
+      "totalSmall": 1,
+      "highlights": []
+    },
+    {
+      "page": "Topik-01",
+      "tab": "kuis",
+      "mode": "kelas",
+      "smallFonts": [],
+      "totalSmall": 0,
+      "highlights": [
+        {
+          "selector": "topic-title-unified",
+          "text": "Unsur-unsur lingkara",
+          "fontSize": 41.6
+        }
+      ]
+    },
+    {
+      "page": "Topik-02",
+      "tab": "konsep",
+      "mode": "normal",
+      "smallFonts": [
+        {
+          "tag": "span",
+          "className": "topic-eyebrow-unified",
+          "text": "Rumpun I · Topik 02 dari 10",
+          "fontSize": 13.44,
+          "lineHeight": "normal"
+        },
+        {
+          "tag": "span",
+          "className": "vlist-s",
+          "text": "​",
+          "fontSize": 1,
+          "lineHeight": "1.2px"
+        },
+        {
+          "tag": "mo",
+          "className": "",
+          "text": "∘",
+          "fontSize": 11.8272,
+          "lineHeight": "normal"
+        },
+        {
+          "tag": "span",
+          "className": "mbin mtight",
+          "text": "∘",
+          "fontSize": 11.8272,
+          "lineHeight": "14.1926px"
+        },
+        {
+          "tag": "span",
+          "className": "vlist-s",
+          "text": "​",
+          "fontSize": 1,
+          "lineHeight": "1.2px"
+        },
+        {
+          "tag": "mi",
+          "className": "",
+          "text": "n",
+          "fontSize": 11.8272,
+          "lineHeight": "normal"
+        },
+        {
+          "tag": "mi",
+          "className": "",
+          "text": "n",
+          "fontSize": 11.8272,
+          "lineHeight": "normal"
+        },
+        {
+          "tag": "mi",
+          "className": "",
+          "text": "n",
+          "fontSize": 11.8272,
+          "lineHeight": "normal"
+        },
+        {
+          "tag": "mi",
+          "className": "",
+          "text": "n",
+          "fontSize": 11.8272,
+          "lineHeight": "normal"
+        },
+        {
+          "tag": "span",
+          "className": "vlist-s",
+          "text": "​",
+          "fontSize": 1,
+          "lineHeight": "1.2px"
+        },
+        {
+          "tag": "span",
+          "className": "mord mathnormal mtight",
+          "text": "n",
+          "fontSize": 11.8272,
+          "lineHeight": "14.1926px"
+        },
+        {
+          "tag": "span",
+          "className": "vlist-s",
+          "text": "​",
+          "fontSize": 1,
+          "lineHeight": "1.2px"
+        },
+        {
+          "tag": "span",
+          "className": "mord mathnormal mtight",
+          "text": "n",
+          "fontSize": 11.8272,
+          "lineHeight": "14.1926px"
+        },
+        {
+          "tag": "span",
+          "className": "vlist-s",
+          "text": "​",
+          "fontSize": 1,
+          "lineHeight": "1.2px"
+        },
+        {
+          "tag": "span",
+          "className": "mord mathnormal mtight",
+          "text": "n",
+          "fontSize": 11.8272,
+          "lineHeight": "14.1926px"
+        },
+        {
+          "tag": "span",
+          "className": "vlist-s",
+          "text": "​",
+          "fontSize": 1,
+          "lineHeight": "1.2px"
+        },
+        {
+          "tag": "span",
+          "className": "mord mathnormal mtight",
+          "text": "n",
+          "fontSize": 11.8272,
+          "lineHeight": "14.1926px"
+        },
+        {
+          "tag": "span",
+          "className": "vlist-s",
+          "text": "​",
+          "fontSize": 1,
+          "lineHeight": "1.2px"
+        },
+        {
+          "tag": "span",
+          "className": "vlist-s",
+          "text": "​",
+          "fontSize": 1,
+          "lineHeight": "1.2px"
+        },
+        {
+          "tag": "span",
+          "className": "vlist-s",
+          "text": "​",
+          "fontSize": 1,
+          "lineHeight": "1.2px"
+        },
+        {
+          "tag": "span",
+          "className": "vlist-s",
+          "text": "​",
+          "fontSize": 1,
+          "lineHeight": "1.2px"
+        },
+        {
+          "tag": "span",
+          "className": "vlist-s",
+          "text": "​",
+          "fontSize": 1,
+          "lineHeight": "1.2px"
+        },
+        {
+          "tag": "span",
+          "className": "vlist-s",
+          "text": "​",
+          "fontSize": 1,
+          "lineHeight": "1.2px"
+        }
+      ],
+      "totalSmall": 23,
+      "highlights": []
+    },
+    {
+      "page": "Topik-02",
+      "tab": "latihan",
+      "mode": "normal",
+      "smallFonts": [
+        {
+          "tag": "span",
+          "className": "topic-eyebrow-unified",
+          "text": "Rumpun I · Topik 02 dari 10",
+          "fontSize": 13.44,
+          "lineHeight": "normal"
+        }
+      ],
+      "totalSmall": 1,
+      "highlights": []
+    },
+    {
+      "page": "Topik-02",
+      "tab": "kuis",
+      "mode": "normal",
+      "smallFonts": [
+        {
+          "tag": "span",
+          "className": "topic-eyebrow-unified",
+          "text": "Rumpun I · Topik 02 dari 10",
+          "fontSize": 13.44,
+          "lineHeight": "normal"
+        }
+      ],
+      "totalSmall": 1,
+      "highlights": []
+    },
+    {
+      "page": "Topik-03",
+      "tab": "konsep",
+      "mode": "normal",
+      "smallFonts": [
+        {
+          "tag": "span",
+          "className": "topic-eyebrow-unified",
+          "text": "Rumpun I · Topik 03 dari 10",
+          "fontSize": 13.44,
+          "lineHeight": "normal"
+        },
+        {
+          "tag": "mo",
+          "className": "",
+          "text": "∘",
+          "fontSize": 11.8272,
+          "lineHeight": "normal"
+        },
+        {
+          "tag": "span",
+          "className": "vlist-s",
+          "text": "​",
+          "fontSize": 1,
+          "lineHeight": "1.2px"
+        },
+        {
+          "tag": "span",
+          "className": "mbin mtight",
+          "text": "∘",
+          "fontSize": 11.8272,
+          "lineHeight": "14.1926px"
+        },
+        {
+          "tag": "span",
+          "className": "vlist-s",
+          "text": "​",
+          "fontSize": 1,
+          "lineHeight": "1.2px"
+        }
+      ],
+      "totalSmall": 5,
+      "highlights": []
+    },
+    {
+      "page": "Topik-03",
+      "tab": "konsep",
+      "mode": "kelas",
+      "smallFonts": [],
+      "totalSmall": 0,
+      "highlights": [
+        {
+          "selector": "topic-title-unified",
+          "text": "Luas lingkaran",
+          "fontSize": 41.6
+        }
+      ]
+    },
+    {
+      "page": "Topik-03",
+      "tab": "latihan",
+      "mode": "normal",
+      "smallFonts": [
+        {
+          "tag": "span",
+          "className": "topic-eyebrow-unified",
+          "text": "Rumpun I · Topik 03 dari 10",
+          "fontSize": 13.44,
+          "lineHeight": "normal"
+        }
+      ],
+      "totalSmall": 1,
+      "highlights": []
+    },
+    {
+      "page": "Topik-03",
+      "tab": "latihan",
+      "mode": "kelas",
+      "smallFonts": [],
+      "totalSmall": 0,
+      "highlights": [
+        {
+          "selector": "topic-title-unified",
+          "text": "Luas lingkaran",
+          "fontSize": 41.6
+        }
+      ]
+    },
+    {
+      "page": "Topik-03",
+      "tab": "kuis",
+      "mode": "normal",
+      "smallFonts": [
+        {
+          "tag": "span",
+          "className": "topic-eyebrow-unified",
+          "text": "Rumpun I · Topik 03 dari 10",
+          "fontSize": 13.44,
+          "lineHeight": "normal"
+        }
+      ],
+      "totalSmall": 1,
+      "highlights": []
+    },
+    {
+      "page": "Topik-03",
+      "tab": "kuis",
+      "mode": "kelas",
+      "smallFonts": [],
+      "totalSmall": 0,
+      "highlights": [
+        {
+          "selector": "topic-title-unified",
+          "text": "Luas lingkaran",
+          "fontSize": 41.6
+        }
+      ]
+    },
+    {
+      "page": "Topik-04",
+      "tab": "konsep",
+      "mode": "normal",
+      "smallFonts": [
+        {
+          "tag": "span",
+          "className": "topic-eyebrow-unified",
+          "text": "Rumpun II · Topik 04 dari 10",
+          "fontSize": 13.44,
+          "lineHeight": "normal"
+        }
+      ],
+      "totalSmall": 1,
+      "highlights": []
+    },
+    {
+      "page": "Topik-04",
+      "tab": "latihan",
+      "mode": "normal",
+      "smallFonts": [
+        {
+          "tag": "span",
+          "className": "topic-eyebrow-unified",
+          "text": "Rumpun II · Topik 04 dari 10",
+          "fontSize": 13.44,
+          "lineHeight": "normal"
+        }
+      ],
+      "totalSmall": 1,
+      "highlights": []
+    },
+    {
+      "page": "Topik-04",
+      "tab": "kuis",
+      "mode": "normal",
+      "smallFonts": [
+        {
+          "tag": "span",
+          "className": "topic-eyebrow-unified",
+          "text": "Rumpun II · Topik 04 dari 10",
+          "fontSize": 13.44,
+          "lineHeight": "normal"
+        }
+      ],
+      "totalSmall": 1,
+      "highlights": []
+    },
+    {
+      "page": "Topik-05",
+      "tab": "konsep",
+      "mode": "normal",
+      "smallFonts": [
+        {
+          "tag": "span",
+          "className": "topic-eyebrow-unified",
+          "text": "Rumpun II · Topik 05 dari 10",
+          "fontSize": 13.44,
+          "lineHeight": "normal"
+        },
+        {
+          "tag": "span",
+          "className": "vlist-s",
+          "text": "​",
+          "fontSize": 1,
+          "lineHeight": "1.2px"
+        },
+        {
+          "tag": "span",
+          "className": "vlist-s",
+          "text": "​",
+          "fontSize": 1,
+          "lineHeight": "1.2px"
+        },
+        {
+          "tag": "span",
+          "className": "vlist-s",
+          "text": "​",
+          "fontSize": 1,
+          "lineHeight": "1.2px"
+        },
+        {
+          "tag": "span",
+          "className": "vlist-s",
+          "text": "​",
+          "fontSize": 1,
+          "lineHeight": "1.2px"
+        }
+      ],
+      "totalSmall": 5,
+      "highlights": []
+    },
+    {
+      "page": "Topik-05",
+      "tab": "latihan",
+      "mode": "normal",
+      "smallFonts": [
+        {
+          "tag": "span",
+          "className": "topic-eyebrow-unified",
+          "text": "Rumpun II · Topik 05 dari 10",
+          "fontSize": 13.44,
+          "lineHeight": "normal"
+        }
+      ],
+      "totalSmall": 1,
+      "highlights": []
+    },
+    {
+      "page": "Topik-05",
+      "tab": "kuis",
+      "mode": "normal",
+      "smallFonts": [
+        {
+          "tag": "span",
+          "className": "topic-eyebrow-unified",
+          "text": "Rumpun II · Topik 05 dari 10",
+          "fontSize": 13.44,
+          "lineHeight": "normal"
+        }
+      ],
+      "totalSmall": 1,
+      "highlights": []
+    },
+    {
+      "page": "Topik-06",
+      "tab": "konsep",
+      "mode": "normal",
+      "smallFonts": [
+        {
+          "tag": "span",
+          "className": "topic-eyebrow-unified",
+          "text": "Rumpun II · Topik 06 dari 10",
+          "fontSize": 13.44,
+          "lineHeight": "normal"
+        },
+        {
+          "tag": "span",
+          "className": "vlist-s",
+          "text": "​",
+          "fontSize": 1,
+          "lineHeight": "1.2px"
+        },
+        {
+          "tag": "span",
+          "className": "vlist-s",
+          "text": "​",
+          "fontSize": 1,
+          "lineHeight": "1.2px"
+        }
+      ],
+      "totalSmall": 3,
+      "highlights": []
+    },
+    {
+      "page": "Topik-06",
+      "tab": "latihan",
+      "mode": "normal",
+      "smallFonts": [
+        {
+          "tag": "span",
+          "className": "topic-eyebrow-unified",
+          "text": "Rumpun II · Topik 06 dari 10",
+          "fontSize": 13.44,
+          "lineHeight": "normal"
+        }
+      ],
+      "totalSmall": 1,
+      "highlights": []
+    },
+    {
+      "page": "Topik-06",
+      "tab": "kuis",
+      "mode": "normal",
+      "smallFonts": [
+        {
+          "tag": "span",
+          "className": "topic-eyebrow-unified",
+          "text": "Rumpun II · Topik 06 dari 10",
+          "fontSize": 13.44,
+          "lineHeight": "normal"
+        }
+      ],
+      "totalSmall": 1,
+      "highlights": []
+    },
+    {
+      "page": "Topik-07",
+      "tab": "konsep",
+      "mode": "normal",
+      "smallFonts": [
+        {
+          "tag": "span",
+          "className": "topic-eyebrow-unified",
+          "text": "Rumpun III · Topik 07 dari 10",
+          "fontSize": 13.44,
+          "lineHeight": "normal"
+        },
+        {
+          "tag": "span",
+          "className": "vlist-s",
+          "text": "​",
+          "fontSize": 1,
+          "lineHeight": "1.2px"
+        },
+        {
+          "tag": "span",
+          "className": "vlist-s",
+          "text": "​",
+          "fontSize": 1,
+          "lineHeight": "1.2px"
+        },
+        {
+          "tag": "span",
+          "className": "vlist-s",
+          "text": "​",
+          "fontSize": 1,
+          "lineHeight": "1.2px"
+        },
+        {
+          "tag": "span",
+          "className": "vlist-s",
+          "text": "​",
+          "fontSize": 1,
+          "lineHeight": "1.2px"
+        }
+      ],
+      "totalSmall": 5,
+      "highlights": []
+    },
+    {
+      "page": "Topik-07",
+      "tab": "konsep",
+      "mode": "kelas",
+      "smallFonts": [],
+      "totalSmall": 0,
+      "highlights": [
+        {
+          "selector": "topic-title-unified",
+          "text": "Lingkaran dalam segi",
+          "fontSize": 41.6
+        }
+      ]
+    },
+    {
+      "page": "Topik-07",
+      "tab": "latihan",
+      "mode": "normal",
+      "smallFonts": [
+        {
+          "tag": "span",
+          "className": "topic-eyebrow-unified",
+          "text": "Rumpun III · Topik 07 dari 10",
+          "fontSize": 13.44,
+          "lineHeight": "normal"
+        }
+      ],
+      "totalSmall": 1,
+      "highlights": []
+    },
+    {
+      "page": "Topik-07",
+      "tab": "latihan",
+      "mode": "kelas",
+      "smallFonts": [],
+      "totalSmall": 0,
+      "highlights": [
+        {
+          "selector": "topic-title-unified",
+          "text": "Lingkaran dalam segi",
+          "fontSize": 41.6
+        }
+      ]
+    },
+    {
+      "page": "Topik-07",
+      "tab": "kuis",
+      "mode": "normal",
+      "smallFonts": [
+        {
+          "tag": "span",
+          "className": "topic-eyebrow-unified",
+          "text": "Rumpun III · Topik 07 dari 10",
+          "fontSize": 13.44,
+          "lineHeight": "normal"
+        }
+      ],
+      "totalSmall": 1,
+      "highlights": []
+    },
+    {
+      "page": "Topik-07",
+      "tab": "kuis",
+      "mode": "kelas",
+      "smallFonts": [],
+      "totalSmall": 0,
+      "highlights": [
+        {
+          "selector": "topic-title-unified",
+          "text": "Lingkaran dalam segi",
+          "fontSize": 41.6
+        }
+      ]
+    },
+    {
+      "page": "Topik-08",
+      "tab": "konsep",
+      "mode": "normal",
+      "smallFonts": [
+        {
+          "tag": "span",
+          "className": "topic-eyebrow-unified",
+          "text": "Rumpun III · Topik 08 dari 10",
+          "fontSize": 13.44,
+          "lineHeight": "normal"
+        },
+        {
+          "tag": "span",
+          "className": "vlist-s",
+          "text": "​",
+          "fontSize": 1,
+          "lineHeight": "1.2px"
+        },
+        {
+          "tag": "span",
+          "className": "vlist-s",
+          "text": "​",
+          "fontSize": 1,
+          "lineHeight": "1.2px"
+        },
+        {
+          "tag": "span",
+          "className": "vlist-s",
+          "text": "​",
+          "fontSize": 1,
+          "lineHeight": "1.2px"
+        },
+        {
+          "tag": "span",
+          "className": "vlist-s",
+          "text": "​",
+          "fontSize": 1,
+          "lineHeight": "1.2px"
+        }
+      ],
+      "totalSmall": 5,
+      "highlights": []
+    },
+    {
+      "page": "Topik-08",
+      "tab": "latihan",
+      "mode": "normal",
+      "smallFonts": [
+        {
+          "tag": "span",
+          "className": "topic-eyebrow-unified",
+          "text": "Rumpun III · Topik 08 dari 10",
+          "fontSize": 13.44,
+          "lineHeight": "normal"
+        }
+      ],
+      "totalSmall": 1,
+      "highlights": []
+    },
+    {
+      "page": "Topik-08",
+      "tab": "kuis",
+      "mode": "normal",
+      "smallFonts": [
+        {
+          "tag": "span",
+          "className": "topic-eyebrow-unified",
+          "text": "Rumpun III · Topik 08 dari 10",
+          "fontSize": 13.44,
+          "lineHeight": "normal"
+        }
+      ],
+      "totalSmall": 1,
+      "highlights": []
+    },
+    {
+      "page": "Topik-09",
+      "tab": "konsep",
+      "mode": "normal",
+      "smallFonts": [
+        {
+          "tag": "span",
+          "className": "topic-eyebrow-unified",
+          "text": "Rumpun IV · Topik 09 dari 10",
+          "fontSize": 13.44,
+          "lineHeight": "normal"
+        },
+        {
+          "tag": "span",
+          "className": "vlist-s",
+          "text": "​",
+          "fontSize": 1,
+          "lineHeight": "1.2px"
+        },
+        {
+          "tag": "span",
+          "className": "vlist-s",
+          "text": "​",
+          "fontSize": 1,
+          "lineHeight": "1.2px"
+        },
+        {
+          "tag": "span",
+          "className": "vlist-s",
+          "text": "​",
+          "fontSize": 1,
+          "lineHeight": "1.2px"
+        },
+        {
+          "tag": "span",
+          "className": "vlist-s",
+          "text": "​",
+          "fontSize": 1,
+          "lineHeight": "1.2px"
+        },
+        {
+          "tag": "span",
+          "className": "vlist-s",
+          "text": "​",
+          "fontSize": 1,
+          "lineHeight": "1.2px"
+        }
+      ],
+      "totalSmall": 6,
+      "highlights": []
+    },
+    {
+      "page": "Topik-09",
+      "tab": "konsep",
+      "mode": "kelas",
+      "smallFonts": [],
+      "totalSmall": 0,
+      "highlights": [
+        {
+          "selector": "topic-title-unified",
+          "text": "Garis singgung lingk",
+          "fontSize": 41.6
+        }
+      ]
+    },
+    {
+      "page": "Topik-09",
+      "tab": "latihan",
+      "mode": "normal",
+      "smallFonts": [
+        {
+          "tag": "span",
+          "className": "topic-eyebrow-unified",
+          "text": "Rumpun IV · Topik 09 dari 10",
+          "fontSize": 13.44,
+          "lineHeight": "normal"
+        }
+      ],
+      "totalSmall": 1,
+      "highlights": []
+    },
+    {
+      "page": "Topik-09",
+      "tab": "latihan",
+      "mode": "kelas",
+      "smallFonts": [],
+      "totalSmall": 0,
+      "highlights": [
+        {
+          "selector": "topic-title-unified",
+          "text": "Garis singgung lingk",
+          "fontSize": 41.6
+        }
+      ]
+    },
+    {
+      "page": "Topik-09",
+      "tab": "kuis",
+      "mode": "normal",
+      "smallFonts": [
+        {
+          "tag": "span",
+          "className": "topic-eyebrow-unified",
+          "text": "Rumpun IV · Topik 09 dari 10",
+          "fontSize": 13.44,
+          "lineHeight": "normal"
+        }
+      ],
+      "totalSmall": 1,
+      "highlights": []
+    },
+    {
+      "page": "Topik-09",
+      "tab": "kuis",
+      "mode": "kelas",
+      "smallFonts": [],
+      "totalSmall": 0,
+      "highlights": [
+        {
+          "selector": "topic-title-unified",
+          "text": "Garis singgung lingk",
+          "fontSize": 41.6
+        }
+      ]
+    },
+    {
+      "page": "Topik-10",
+      "tab": "konsep",
+      "mode": "normal",
+      "smallFonts": [
+        {
+          "tag": "span",
+          "className": "topic-eyebrow-unified",
+          "text": "Rumpun IV · Topik 10 dari 10",
+          "fontSize": 13.44,
+          "lineHeight": "normal"
+        }
+      ],
+      "totalSmall": 1,
+      "highlights": []
+    },
+    {
+      "page": "Topik-10",
+      "tab": "latihan",
+      "mode": "normal",
+      "smallFonts": [
+        {
+          "tag": "span",
+          "className": "topic-eyebrow-unified",
+          "text": "Rumpun IV · Topik 10 dari 10",
+          "fontSize": 13.44,
+          "lineHeight": "normal"
+        }
+      ],
+      "totalSmall": 1,
+      "highlights": []
+    },
+    {
+      "page": "Topik-10",
+      "tab": "kuis",
+      "mode": "normal",
+      "smallFonts": [
+        {
+          "tag": "span",
+          "className": "topic-eyebrow-unified",
+          "text": "Rumpun IV · Topik 10 dari 10",
+          "fontSize": 13.44,
+          "lineHeight": "normal"
+        }
+      ],
+      "totalSmall": 1,
+      "highlights": []
+    }
+  ],
+  "touch": [
+    {
+      "page": "Beranda",
+      "mode": "normal",
+      "totalInteractive": 15,
+      "failureCount": 2,
+      "failures": [
+        {
+          "tag": "a",
+          "text": "Simulasi Lingkaran SMPMat",
+          "className": "brand",
+          "width": 394,
+          "height": 42,
+          "shortestSide": 42,
+          "threshold": 44
+        },
+        {
+          "tag": "button",
+          "text": "Mode kelas",
+          "className": "mode-ifp-toggle ",
+          "width": 121,
+          "height": 28,
+          "shortestSide": 28,
+          "threshold": 44
+        }
+      ]
+    },
+    {
+      "page": "Beranda",
+      "mode": "kelas",
+      "totalInteractive": 15,
+      "failureCount": 1,
+      "failures": [
+        {
+          "tag": "a",
+          "text": "Simulasi Lingkaran SMPMat",
+          "className": "brand",
+          "width": 394,
+          "height": 42,
+          "shortestSide": 42,
+          "threshold": 54
+        }
+      ]
+    },
+    {
+      "page": "Topik-01",
+      "tab": "eksplorasi",
+      "mode": "normal",
+      "totalInteractive": 27,
+      "failureCount": 5,
+      "failures": [
+        {
+          "tag": "a",
+          "text": "Simulasi Lingkaran SMPMat",
+          "className": "brand",
+          "width": 394,
+          "height": 42,
+          "shortestSide": 42,
+          "threshold": 44
+        },
+        {
+          "tag": "button",
+          "text": "Mode kelas",
+          "className": "mode-ifp-toggle ",
+          "width": 121,
+          "height": 28,
+          "shortestSide": 28,
+          "threshold": 44
+        },
+        {
+          "tag": "g",
+          "text": "Titik pusat, ditampilkan",
+          "className": "unsur-layer",
+          "width": 16,
+          "height": 16,
+          "shortestSide": 16,
+          "threshold": 44
+        },
+        {
+          "tag": "g",
+          "text": "r",
+          "className": "unsur-layer",
+          "width": 8,
+          "height": 27,
+          "shortestSide": 8,
+          "threshold": 44
+        },
+        {
+          "tag": "input",
+          "text": "Jari-jari: 145 cm",
+          "className": "",
+          "width": 518,
+          "height": 8,
+          "shortestSide": 8,
+          "threshold": 44
+        }
+      ]
+    },
+    {
+      "page": "Topik-01",
+      "tab": "eksplorasi",
+      "mode": "kelas",
+      "totalInteractive": 27,
+      "failureCount": 7,
+      "failures": [
+        {
+          "tag": "a",
+          "text": "Simulasi Lingkaran SMPMat",
+          "className": "brand",
+          "width": 394,
+          "height": 42,
+          "shortestSide": 42,
+          "threshold": 54
+        },
+        {
+          "tag": "g",
+          "text": "Titik pusat, ditampilkan",
+          "className": "unsur-layer",
+          "width": 16,
+          "height": 16,
+          "shortestSide": 16,
+          "threshold": 54
+        },
+        {
+          "tag": "g",
+          "text": "r",
+          "className": "unsur-layer",
+          "width": 8,
+          "height": 27,
+          "shortestSide": 8,
+          "threshold": 54
+        },
+        {
+          "tag": "button",
+          "text": "↻ Reset",
+          "className": "reset-button",
+          "width": 88,
+          "height": 44,
+          "shortestSide": 44,
+          "threshold": 54
+        },
+        {
+          "tag": "button",
+          "text": "Satu per satu",
+          "className": "all-button aktif",
+          "width": 169,
+          "height": 44,
+          "shortestSide": 44,
+          "threshold": 54
+        },
+        {
+          "tag": "button",
+          "text": "Tampilkan semua",
+          "className": "all-button",
+          "width": 169,
+          "height": 44,
+          "shortestSide": 44,
+          "threshold": 54
+        },
+        {
+          "tag": "button",
+          "text": "Kosongkan",
+          "className": "reset-button",
+          "width": 169,
+          "height": 44,
+          "shortestSide": 44,
+          "threshold": 54
+        }
+      ]
+    },
+    {
+      "page": "Topik-02",
+      "tab": "eksplorasi",
+      "mode": "normal",
+      "totalInteractive": 15,
+      "failureCount": 4,
+      "failures": [
+        {
+          "tag": "a",
+          "text": "Simulasi Lingkaran SMPMat",
+          "className": "brand",
+          "width": 394,
+          "height": 42,
+          "shortestSide": 42,
+          "threshold": 44
+        },
+        {
+          "tag": "button",
+          "text": "Mode kelas",
+          "className": "mode-ifp-toggle ",
+          "width": 121,
+          "height": 28,
+          "shortestSide": 28,
+          "threshold": 44
+        },
+        {
+          "tag": "input",
+          "text": "Jari-jari: 7 cm",
+          "className": "",
+          "width": 518,
+          "height": 8,
+          "shortestSide": 8,
+          "threshold": 44
+        },
+        {
+          "tag": "input",
+          "text": "Pembukaan busur: 0%",
+          "className": "",
+          "width": 518,
+          "height": 8,
+          "shortestSide": 8,
+          "threshold": 44
+        }
+      ]
+    },
+    {
+      "page": "Topik-02",
+      "tab": "eksplorasi",
+      "mode": "kelas",
+      "totalInteractive": 15,
+      "failureCount": 2,
+      "failures": [
+        {
+          "tag": "a",
+          "text": "Simulasi Lingkaran SMPMat",
+          "className": "brand",
+          "width": 394,
+          "height": 42,
+          "shortestSide": 42,
+          "threshold": 54
+        },
+        {
+          "tag": "button",
+          "text": "↻ Reset",
+          "className": "reset-button",
+          "width": 88,
+          "height": 44,
+          "shortestSide": 44,
+          "threshold": 54
+        }
+      ]
+    },
+    {
+      "page": "Topik-03",
+      "tab": "eksplorasi",
+      "mode": "normal",
+      "totalInteractive": 12,
+      "failureCount": 4,
+      "failures": [
+        {
+          "tag": "a",
+          "text": "Simulasi Lingkaran SMPMat",
+          "className": "brand",
+          "width": 394,
+          "height": 42,
+          "shortestSide": 42,
+          "threshold": 44
+        },
+        {
+          "tag": "button",
+          "text": "Mode kelas",
+          "className": "mode-ifp-toggle ",
+          "width": 121,
+          "height": 28,
+          "shortestSide": 28,
+          "threshold": 44
+        },
+        {
+          "tag": "input",
+          "text": "Jari-jari: 7 cm",
+          "className": "",
+          "width": 518,
+          "height": 8,
+          "shortestSide": 8,
+          "threshold": 44
+        },
+        {
+          "tag": "input",
+          "text": "Jumlah juring: 16",
+          "className": "",
+          "width": 518,
+          "height": 8,
+          "shortestSide": 8,
+          "threshold": 44
+        }
+      ]
+    },
+    {
+      "page": "Topik-03",
+      "tab": "eksplorasi",
+      "mode": "kelas",
+      "totalInteractive": 12,
+      "failureCount": 2,
+      "failures": [
+        {
+          "tag": "a",
+          "text": "Simulasi Lingkaran SMPMat",
+          "className": "brand",
+          "width": 394,
+          "height": 42,
+          "shortestSide": 42,
+          "threshold": 54
+        },
+        {
+          "tag": "button",
+          "text": "↻ Reset",
+          "className": "reset-button",
+          "width": 88,
+          "height": 44,
+          "shortestSide": 44,
+          "threshold": 54
+        }
+      ]
+    },
+    {
+      "page": "Topik-04",
+      "tab": "eksplorasi",
+      "mode": "normal",
+      "totalInteractive": 15,
+      "failureCount": 4,
+      "failures": [
+        {
+          "tag": "a",
+          "text": "Simulasi Lingkaran SMPMat",
+          "className": "brand",
+          "width": 394,
+          "height": 42,
+          "shortestSide": 42,
+          "threshold": 44
+        },
+        {
+          "tag": "button",
+          "text": "Mode kelas",
+          "className": "mode-ifp-toggle ",
+          "width": 121,
+          "height": 28,
+          "shortestSide": 28,
+          "threshold": 44
+        },
+        {
+          "tag": "input",
+          "text": "",
+          "className": "",
+          "width": 48,
+          "height": 28,
+          "shortestSide": 28,
+          "threshold": 44
+        },
+        {
+          "tag": "input",
+          "text": "Posisi C: 77°",
+          "className": "",
+          "width": 518,
+          "height": 8,
+          "shortestSide": 8,
+          "threshold": 44
+        }
+      ]
+    },
+    {
+      "page": "Topik-04",
+      "tab": "eksplorasi",
+      "mode": "kelas",
+      "totalInteractive": 15,
+      "failureCount": 3,
+      "failures": [
+        {
+          "tag": "a",
+          "text": "Simulasi Lingkaran SMPMat",
+          "className": "brand",
+          "width": 394,
+          "height": 42,
+          "shortestSide": 42,
+          "threshold": 54
+        },
+        {
+          "tag": "button",
+          "text": "↻ Reset",
+          "className": "reset-button",
+          "width": 88,
+          "height": 44,
+          "shortestSide": 44,
+          "threshold": 54
+        },
+        {
+          "tag": "input",
+          "text": "",
+          "className": "",
+          "width": 56,
+          "height": 32,
+          "shortestSide": 32,
+          "threshold": 54
+        }
+      ]
+    },
+    {
+      "page": "Topik-05",
+      "tab": "eksplorasi",
+      "mode": "normal",
+      "totalInteractive": 16,
+      "failureCount": 2,
+      "failures": [
+        {
+          "tag": "a",
+          "text": "Simulasi Lingkaran SMPMat",
+          "className": "brand",
+          "width": 394,
+          "height": 42,
+          "shortestSide": 42,
+          "threshold": 44
+        },
+        {
+          "tag": "button",
+          "text": "Mode kelas",
+          "className": "mode-ifp-toggle ",
+          "width": 121,
+          "height": 28,
+          "shortestSide": 28,
+          "threshold": 44
+        }
+      ]
+    },
+    {
+      "page": "Topik-05",
+      "tab": "eksplorasi",
+      "mode": "kelas",
+      "totalInteractive": 16,
+      "failureCount": 2,
+      "failures": [
+        {
+          "tag": "a",
+          "text": "Simulasi Lingkaran SMPMat",
+          "className": "brand",
+          "width": 394,
+          "height": 42,
+          "shortestSide": 42,
+          "threshold": 54
+        },
+        {
+          "tag": "button",
+          "text": "↻ Reset",
+          "className": "reset-button",
+          "width": 88,
+          "height": 44,
+          "shortestSide": 44,
+          "threshold": 54
+        }
+      ]
+    },
+    {
+      "page": "Topik-06",
+      "tab": "eksplorasi",
+      "mode": "normal",
+      "totalInteractive": 16,
+      "failureCount": 2,
+      "failures": [
+        {
+          "tag": "a",
+          "text": "Simulasi Lingkaran SMPMat",
+          "className": "brand",
+          "width": 394,
+          "height": 42,
+          "shortestSide": 42,
+          "threshold": 44
+        },
+        {
+          "tag": "button",
+          "text": "Mode kelas",
+          "className": "mode-ifp-toggle ",
+          "width": 121,
+          "height": 28,
+          "shortestSide": 28,
+          "threshold": 44
+        }
+      ]
+    },
+    {
+      "page": "Topik-06",
+      "tab": "eksplorasi",
+      "mode": "kelas",
+      "totalInteractive": 16,
+      "failureCount": 2,
+      "failures": [
+        {
+          "tag": "a",
+          "text": "Simulasi Lingkaran SMPMat",
+          "className": "brand",
+          "width": 394,
+          "height": 42,
+          "shortestSide": 42,
+          "threshold": 54
+        },
+        {
+          "tag": "button",
+          "text": "↻ Reset",
+          "className": "reset-button",
+          "width": 88,
+          "height": 44,
+          "shortestSide": 44,
+          "threshold": 54
+        }
+      ]
+    },
+    {
+      "page": "Topik-07",
+      "tab": "eksplorasi",
+      "mode": "normal",
+      "totalInteractive": 13,
+      "failureCount": 2,
+      "failures": [
+        {
+          "tag": "a",
+          "text": "Simulasi Lingkaran SMPMat",
+          "className": "brand",
+          "width": 394,
+          "height": 42,
+          "shortestSide": 42,
+          "threshold": 44
+        },
+        {
+          "tag": "button",
+          "text": "Mode kelas",
+          "className": "mode-ifp-toggle ",
+          "width": 121,
+          "height": 28,
+          "shortestSide": 28,
+          "threshold": 44
+        }
+      ]
+    },
+    {
+      "page": "Topik-07",
+      "tab": "eksplorasi",
+      "mode": "kelas",
+      "totalInteractive": 13,
+      "failureCount": 2,
+      "failures": [
+        {
+          "tag": "a",
+          "text": "Simulasi Lingkaran SMPMat",
+          "className": "brand",
+          "width": 394,
+          "height": 42,
+          "shortestSide": 42,
+          "threshold": 54
+        },
+        {
+          "tag": "button",
+          "text": "↻ Reset",
+          "className": "reset-button",
+          "width": 88,
+          "height": 44,
+          "shortestSide": 44,
+          "threshold": 54
+        }
+      ]
+    },
+    {
+      "page": "Topik-08",
+      "tab": "eksplorasi",
+      "mode": "normal",
+      "totalInteractive": 13,
+      "failureCount": 2,
+      "failures": [
+        {
+          "tag": "a",
+          "text": "Simulasi Lingkaran SMPMat",
+          "className": "brand",
+          "width": 394,
+          "height": 42,
+          "shortestSide": 42,
+          "threshold": 44
+        },
+        {
+          "tag": "button",
+          "text": "Mode kelas",
+          "className": "mode-ifp-toggle ",
+          "width": 121,
+          "height": 28,
+          "shortestSide": 28,
+          "threshold": 44
+        }
+      ]
+    },
+    {
+      "page": "Topik-08",
+      "tab": "eksplorasi",
+      "mode": "kelas",
+      "totalInteractive": 13,
+      "failureCount": 2,
+      "failures": [
+        {
+          "tag": "a",
+          "text": "Simulasi Lingkaran SMPMat",
+          "className": "brand",
+          "width": 394,
+          "height": 42,
+          "shortestSide": 42,
+          "threshold": 54
+        },
+        {
+          "tag": "button",
+          "text": "↻ Reset",
+          "className": "reset-button",
+          "width": 88,
+          "height": 44,
+          "shortestSide": 44,
+          "threshold": 54
+        }
+      ]
+    },
+    {
+      "page": "Topik-09",
+      "tab": "eksplorasi",
+      "mode": "normal",
+      "totalInteractive": 14,
+      "failureCount": 2,
+      "failures": [
+        {
+          "tag": "a",
+          "text": "Simulasi Lingkaran SMPMat",
+          "className": "brand",
+          "width": 394,
+          "height": 42,
+          "shortestSide": 42,
+          "threshold": 44
+        },
+        {
+          "tag": "button",
+          "text": "Mode kelas",
+          "className": "mode-ifp-toggle ",
+          "width": 121,
+          "height": 28,
+          "shortestSide": 28,
+          "threshold": 44
+        }
+      ]
+    },
+    {
+      "page": "Topik-09",
+      "tab": "eksplorasi",
+      "mode": "kelas",
+      "totalInteractive": 14,
+      "failureCount": 2,
+      "failures": [
+        {
+          "tag": "a",
+          "text": "Simulasi Lingkaran SMPMat",
+          "className": "brand",
+          "width": 394,
+          "height": 42,
+          "shortestSide": 42,
+          "threshold": 54
+        },
+        {
+          "tag": "button",
+          "text": "↻ Reset",
+          "className": "reset-button",
+          "width": 88,
+          "height": 44,
+          "shortestSide": 44,
+          "threshold": 54
+        }
+      ]
+    },
+    {
+      "page": "Topik-10",
+      "tab": "eksplorasi",
+      "mode": "normal",
+      "totalInteractive": 15,
+      "failureCount": 5,
+      "failures": [
+        {
+          "tag": "a",
+          "text": "Simulasi Lingkaran SMPMat",
+          "className": "brand",
+          "width": 394,
+          "height": 42,
+          "shortestSide": 42,
+          "threshold": 44
+        },
+        {
+          "tag": "button",
+          "text": "Mode kelas",
+          "className": "mode-ifp-toggle ",
+          "width": 121,
+          "height": 28,
+          "shortestSide": 28,
+          "threshold": 44
+        },
+        {
+          "tag": "input",
+          "text": "Jari-jari besar R: 105 sa",
+          "className": "",
+          "width": 518,
+          "height": 8,
+          "shortestSide": 8,
+          "threshold": 44
+        },
+        {
+          "tag": "input",
+          "text": "Jari-jari kecil r: 65 sat",
+          "className": "",
+          "width": 518,
+          "height": 8,
+          "shortestSide": 8,
+          "threshold": 44
+        },
+        {
+          "tag": "input",
+          "text": "",
+          "className": "",
+          "width": 48,
+          "height": 28,
+          "shortestSide": 28,
+          "threshold": 44
+        }
+      ]
+    },
+    {
+      "page": "Topik-10",
+      "tab": "eksplorasi",
+      "mode": "kelas",
+      "totalInteractive": 15,
+      "failureCount": 3,
+      "failures": [
+        {
+          "tag": "a",
+          "text": "Simulasi Lingkaran SMPMat",
+          "className": "brand",
+          "width": 394,
+          "height": 42,
+          "shortestSide": 42,
+          "threshold": 54
+        },
+        {
+          "tag": "button",
+          "text": "↻ Reset",
+          "className": "reset-button",
+          "width": 88,
+          "height": 44,
+          "shortestSide": 44,
+          "threshold": 54
+        },
+        {
+          "tag": "input",
+          "text": "",
+          "className": "",
+          "width": 56,
+          "height": 32,
+          "shortestSide": 32,
+          "threshold": 54
+        }
+      ]
+    },
+    {
+      "page": "Topik-01",
+      "tab": "konsep",
+      "mode": "normal",
+      "totalInteractive": 9,
+      "failureCount": 2,
+      "failures": [
+        {
+          "tag": "a",
+          "text": "Simulasi Lingkaran SMPMat",
+          "className": "brand",
+          "width": 394,
+          "height": 42,
+          "shortestSide": 42,
+          "threshold": 44
+        },
+        {
+          "tag": "button",
+          "text": "Mode kelas",
+          "className": "mode-ifp-toggle ",
+          "width": 121,
+          "height": 28,
+          "shortestSide": 28,
+          "threshold": 44
+        }
+      ]
+    },
+    {
+      "page": "Topik-01",
+      "tab": "konsep",
+      "mode": "kelas",
+      "totalInteractive": 9,
+      "failureCount": 1,
+      "failures": [
+        {
+          "tag": "a",
+          "text": "Simulasi Lingkaran SMPMat",
+          "className": "brand",
+          "width": 394,
+          "height": 42,
+          "shortestSide": 42,
+          "threshold": 54
+        }
+      ]
+    },
+    {
+      "page": "Topik-01",
+      "tab": "latihan",
+      "mode": "normal",
+      "totalInteractive": 12,
+      "failureCount": 2,
+      "failures": [
+        {
+          "tag": "a",
+          "text": "Simulasi Lingkaran SMPMat",
+          "className": "brand",
+          "width": 394,
+          "height": 42,
+          "shortestSide": 42,
+          "threshold": 44
+        },
+        {
+          "tag": "button",
+          "text": "Mode kelas",
+          "className": "mode-ifp-toggle ",
+          "width": 121,
+          "height": 28,
+          "shortestSide": 28,
+          "threshold": 44
+        }
+      ]
+    },
+    {
+      "page": "Topik-01",
+      "tab": "latihan",
+      "mode": "kelas",
+      "totalInteractive": 12,
+      "failureCount": 2,
+      "failures": [
+        {
+          "tag": "a",
+          "text": "Simulasi Lingkaran SMPMat",
+          "className": "brand",
+          "width": 394,
+          "height": 42,
+          "shortestSide": 42,
+          "threshold": 54
+        },
+        {
+          "tag": "input",
+          "text": "Jawabanmu",
+          "className": "input-number-field",
+          "width": 918,
+          "height": 52,
+          "shortestSide": 52,
+          "threshold": 54
+        }
+      ]
+    },
+    {
+      "page": "Topik-01",
+      "tab": "kuis",
+      "mode": "normal",
+      "totalInteractive": 11,
+      "failureCount": 2,
+      "failures": [
+        {
+          "tag": "a",
+          "text": "Simulasi Lingkaran SMPMat",
+          "className": "brand",
+          "width": 394,
+          "height": 42,
+          "shortestSide": 42,
+          "threshold": 44
+        },
+        {
+          "tag": "button",
+          "text": "Mode kelas",
+          "className": "mode-ifp-toggle ",
+          "width": 121,
+          "height": 28,
+          "shortestSide": 28,
+          "threshold": 44
+        }
+      ]
+    },
+    {
+      "page": "Topik-01",
+      "tab": "kuis",
+      "mode": "kelas",
+      "totalInteractive": 11,
+      "failureCount": 2,
+      "failures": [
+        {
+          "tag": "a",
+          "text": "Simulasi Lingkaran SMPMat",
+          "className": "brand",
+          "width": 394,
+          "height": 42,
+          "shortestSide": 42,
+          "threshold": 54
+        },
+        {
+          "tag": "input",
+          "text": "Jawabanmu",
+          "className": "input-number-field",
+          "width": 918,
+          "height": 52,
+          "shortestSide": 52,
+          "threshold": 54
+        }
+      ]
+    },
+    {
+      "page": "Topik-02",
+      "tab": "konsep",
+      "mode": "normal",
+      "totalInteractive": 9,
+      "failureCount": 2,
+      "failures": [
+        {
+          "tag": "a",
+          "text": "Simulasi Lingkaran SMPMat",
+          "className": "brand",
+          "width": 394,
+          "height": 42,
+          "shortestSide": 42,
+          "threshold": 44
+        },
+        {
+          "tag": "button",
+          "text": "Mode kelas",
+          "className": "mode-ifp-toggle ",
+          "width": 121,
+          "height": 28,
+          "shortestSide": 28,
+          "threshold": 44
+        }
+      ]
+    },
+    {
+      "page": "Topik-02",
+      "tab": "latihan",
+      "mode": "normal",
+      "totalInteractive": 12,
+      "failureCount": 2,
+      "failures": [
+        {
+          "tag": "a",
+          "text": "Simulasi Lingkaran SMPMat",
+          "className": "brand",
+          "width": 394,
+          "height": 42,
+          "shortestSide": 42,
+          "threshold": 44
+        },
+        {
+          "tag": "button",
+          "text": "Mode kelas",
+          "className": "mode-ifp-toggle ",
+          "width": 121,
+          "height": 28,
+          "shortestSide": 28,
+          "threshold": 44
+        }
+      ]
+    },
+    {
+      "page": "Topik-02",
+      "tab": "kuis",
+      "mode": "normal",
+      "totalInteractive": 14,
+      "failureCount": 2,
+      "failures": [
+        {
+          "tag": "a",
+          "text": "Simulasi Lingkaran SMPMat",
+          "className": "brand",
+          "width": 394,
+          "height": 42,
+          "shortestSide": 42,
+          "threshold": 44
+        },
+        {
+          "tag": "button",
+          "text": "Mode kelas",
+          "className": "mode-ifp-toggle ",
+          "width": 121,
+          "height": 28,
+          "shortestSide": 28,
+          "threshold": 44
+        }
+      ]
+    },
+    {
+      "page": "Topik-03",
+      "tab": "konsep",
+      "mode": "normal",
+      "totalInteractive": 9,
+      "failureCount": 2,
+      "failures": [
+        {
+          "tag": "a",
+          "text": "Simulasi Lingkaran SMPMat",
+          "className": "brand",
+          "width": 394,
+          "height": 42,
+          "shortestSide": 42,
+          "threshold": 44
+        },
+        {
+          "tag": "button",
+          "text": "Mode kelas",
+          "className": "mode-ifp-toggle ",
+          "width": 121,
+          "height": 28,
+          "shortestSide": 28,
+          "threshold": 44
+        }
+      ]
+    },
+    {
+      "page": "Topik-03",
+      "tab": "konsep",
+      "mode": "kelas",
+      "totalInteractive": 9,
+      "failureCount": 1,
+      "failures": [
+        {
+          "tag": "a",
+          "text": "Simulasi Lingkaran SMPMat",
+          "className": "brand",
+          "width": 394,
+          "height": 42,
+          "shortestSide": 42,
+          "threshold": 54
+        }
+      ]
+    },
+    {
+      "page": "Topik-03",
+      "tab": "latihan",
+      "mode": "normal",
+      "totalInteractive": 12,
+      "failureCount": 2,
+      "failures": [
+        {
+          "tag": "a",
+          "text": "Simulasi Lingkaran SMPMat",
+          "className": "brand",
+          "width": 394,
+          "height": 42,
+          "shortestSide": 42,
+          "threshold": 44
+        },
+        {
+          "tag": "button",
+          "text": "Mode kelas",
+          "className": "mode-ifp-toggle ",
+          "width": 121,
+          "height": 28,
+          "shortestSide": 28,
+          "threshold": 44
+        }
+      ]
+    },
+    {
+      "page": "Topik-03",
+      "tab": "latihan",
+      "mode": "kelas",
+      "totalInteractive": 12,
+      "failureCount": 2,
+      "failures": [
+        {
+          "tag": "a",
+          "text": "Simulasi Lingkaran SMPMat",
+          "className": "brand",
+          "width": 394,
+          "height": 42,
+          "shortestSide": 42,
+          "threshold": 54
+        },
+        {
+          "tag": "input",
+          "text": "Jawabanmu",
+          "className": "input-number-field",
+          "width": 918,
+          "height": 52,
+          "shortestSide": 52,
+          "threshold": 54
+        }
+      ]
+    },
+    {
+      "page": "Topik-03",
+      "tab": "kuis",
+      "mode": "normal",
+      "totalInteractive": 14,
+      "failureCount": 2,
+      "failures": [
+        {
+          "tag": "a",
+          "text": "Simulasi Lingkaran SMPMat",
+          "className": "brand",
+          "width": 394,
+          "height": 42,
+          "shortestSide": 42,
+          "threshold": 44
+        },
+        {
+          "tag": "button",
+          "text": "Mode kelas",
+          "className": "mode-ifp-toggle ",
+          "width": 121,
+          "height": 28,
+          "shortestSide": 28,
+          "threshold": 44
+        }
+      ]
+    },
+    {
+      "page": "Topik-03",
+      "tab": "kuis",
+      "mode": "kelas",
+      "totalInteractive": 14,
+      "failureCount": 1,
+      "failures": [
+        {
+          "tag": "a",
+          "text": "Simulasi Lingkaran SMPMat",
+          "className": "brand",
+          "width": 394,
+          "height": 42,
+          "shortestSide": 42,
+          "threshold": 54
+        }
+      ]
+    },
+    {
+      "page": "Topik-04",
+      "tab": "konsep",
+      "mode": "normal",
+      "totalInteractive": 9,
+      "failureCount": 2,
+      "failures": [
+        {
+          "tag": "a",
+          "text": "Simulasi Lingkaran SMPMat",
+          "className": "brand",
+          "width": 394,
+          "height": 42,
+          "shortestSide": 42,
+          "threshold": 44
+        },
+        {
+          "tag": "button",
+          "text": "Mode kelas",
+          "className": "mode-ifp-toggle ",
+          "width": 121,
+          "height": 28,
+          "shortestSide": 28,
+          "threshold": 44
+        }
+      ]
+    },
+    {
+      "page": "Topik-04",
+      "tab": "latihan",
+      "mode": "normal",
+      "totalInteractive": 15,
+      "failureCount": 2,
+      "failures": [
+        {
+          "tag": "a",
+          "text": "Simulasi Lingkaran SMPMat",
+          "className": "brand",
+          "width": 394,
+          "height": 42,
+          "shortestSide": 42,
+          "threshold": 44
+        },
+        {
+          "tag": "button",
+          "text": "Mode kelas",
+          "className": "mode-ifp-toggle ",
+          "width": 121,
+          "height": 28,
+          "shortestSide": 28,
+          "threshold": 44
+        }
+      ]
+    },
+    {
+      "page": "Topik-04",
+      "tab": "kuis",
+      "mode": "normal",
+      "totalInteractive": 14,
+      "failureCount": 2,
+      "failures": [
+        {
+          "tag": "a",
+          "text": "Simulasi Lingkaran SMPMat",
+          "className": "brand",
+          "width": 394,
+          "height": 42,
+          "shortestSide": 42,
+          "threshold": 44
+        },
+        {
+          "tag": "button",
+          "text": "Mode kelas",
+          "className": "mode-ifp-toggle ",
+          "width": 121,
+          "height": 28,
+          "shortestSide": 28,
+          "threshold": 44
+        }
+      ]
+    },
+    {
+      "page": "Topik-05",
+      "tab": "konsep",
+      "mode": "normal",
+      "totalInteractive": 9,
+      "failureCount": 2,
+      "failures": [
+        {
+          "tag": "a",
+          "text": "Simulasi Lingkaran SMPMat",
+          "className": "brand",
+          "width": 394,
+          "height": 42,
+          "shortestSide": 42,
+          "threshold": 44
+        },
+        {
+          "tag": "button",
+          "text": "Mode kelas",
+          "className": "mode-ifp-toggle ",
+          "width": 121,
+          "height": 28,
+          "shortestSide": 28,
+          "threshold": 44
+        }
+      ]
+    },
+    {
+      "page": "Topik-05",
+      "tab": "latihan",
+      "mode": "normal",
+      "totalInteractive": 12,
+      "failureCount": 2,
+      "failures": [
+        {
+          "tag": "a",
+          "text": "Simulasi Lingkaran SMPMat",
+          "className": "brand",
+          "width": 394,
+          "height": 42,
+          "shortestSide": 42,
+          "threshold": 44
+        },
+        {
+          "tag": "button",
+          "text": "Mode kelas",
+          "className": "mode-ifp-toggle ",
+          "width": 121,
+          "height": 28,
+          "shortestSide": 28,
+          "threshold": 44
+        }
+      ]
+    },
+    {
+      "page": "Topik-05",
+      "tab": "kuis",
+      "mode": "normal",
+      "totalInteractive": 11,
+      "failureCount": 2,
+      "failures": [
+        {
+          "tag": "a",
+          "text": "Simulasi Lingkaran SMPMat",
+          "className": "brand",
+          "width": 394,
+          "height": 42,
+          "shortestSide": 42,
+          "threshold": 44
+        },
+        {
+          "tag": "button",
+          "text": "Mode kelas",
+          "className": "mode-ifp-toggle ",
+          "width": 121,
+          "height": 28,
+          "shortestSide": 28,
+          "threshold": 44
+        }
+      ]
+    },
+    {
+      "page": "Topik-06",
+      "tab": "konsep",
+      "mode": "normal",
+      "totalInteractive": 9,
+      "failureCount": 2,
+      "failures": [
+        {
+          "tag": "a",
+          "text": "Simulasi Lingkaran SMPMat",
+          "className": "brand",
+          "width": 394,
+          "height": 42,
+          "shortestSide": 42,
+          "threshold": 44
+        },
+        {
+          "tag": "button",
+          "text": "Mode kelas",
+          "className": "mode-ifp-toggle ",
+          "width": 121,
+          "height": 28,
+          "shortestSide": 28,
+          "threshold": 44
+        }
+      ]
+    },
+    {
+      "page": "Topik-06",
+      "tab": "latihan",
+      "mode": "normal",
+      "totalInteractive": 12,
+      "failureCount": 2,
+      "failures": [
+        {
+          "tag": "a",
+          "text": "Simulasi Lingkaran SMPMat",
+          "className": "brand",
+          "width": 394,
+          "height": 42,
+          "shortestSide": 42,
+          "threshold": 44
+        },
+        {
+          "tag": "button",
+          "text": "Mode kelas",
+          "className": "mode-ifp-toggle ",
+          "width": 121,
+          "height": 28,
+          "shortestSide": 28,
+          "threshold": 44
+        }
+      ]
+    },
+    {
+      "page": "Topik-06",
+      "tab": "kuis",
+      "mode": "normal",
+      "totalInteractive": 11,
+      "failureCount": 2,
+      "failures": [
+        {
+          "tag": "a",
+          "text": "Simulasi Lingkaran SMPMat",
+          "className": "brand",
+          "width": 394,
+          "height": 42,
+          "shortestSide": 42,
+          "threshold": 44
+        },
+        {
+          "tag": "button",
+          "text": "Mode kelas",
+          "className": "mode-ifp-toggle ",
+          "width": 121,
+          "height": 28,
+          "shortestSide": 28,
+          "threshold": 44
+        }
+      ]
+    },
+    {
+      "page": "Topik-07",
+      "tab": "konsep",
+      "mode": "normal",
+      "totalInteractive": 9,
+      "failureCount": 2,
+      "failures": [
+        {
+          "tag": "a",
+          "text": "Simulasi Lingkaran SMPMat",
+          "className": "brand",
+          "width": 394,
+          "height": 42,
+          "shortestSide": 42,
+          "threshold": 44
+        },
+        {
+          "tag": "button",
+          "text": "Mode kelas",
+          "className": "mode-ifp-toggle ",
+          "width": 121,
+          "height": 28,
+          "shortestSide": 28,
+          "threshold": 44
+        }
+      ]
+    },
+    {
+      "page": "Topik-07",
+      "tab": "konsep",
+      "mode": "kelas",
+      "totalInteractive": 9,
+      "failureCount": 1,
+      "failures": [
+        {
+          "tag": "a",
+          "text": "Simulasi Lingkaran SMPMat",
+          "className": "brand",
+          "width": 394,
+          "height": 42,
+          "shortestSide": 42,
+          "threshold": 54
+        }
+      ]
+    },
+    {
+      "page": "Topik-07",
+      "tab": "latihan",
+      "mode": "normal",
+      "totalInteractive": 12,
+      "failureCount": 2,
+      "failures": [
+        {
+          "tag": "a",
+          "text": "Simulasi Lingkaran SMPMat",
+          "className": "brand",
+          "width": 394,
+          "height": 42,
+          "shortestSide": 42,
+          "threshold": 44
+        },
+        {
+          "tag": "button",
+          "text": "Mode kelas",
+          "className": "mode-ifp-toggle ",
+          "width": 121,
+          "height": 28,
+          "shortestSide": 28,
+          "threshold": 44
+        }
+      ]
+    },
+    {
+      "page": "Topik-07",
+      "tab": "latihan",
+      "mode": "kelas",
+      "totalInteractive": 12,
+      "failureCount": 2,
+      "failures": [
+        {
+          "tag": "a",
+          "text": "Simulasi Lingkaran SMPMat",
+          "className": "brand",
+          "width": 394,
+          "height": 42,
+          "shortestSide": 42,
+          "threshold": 54
+        },
+        {
+          "tag": "input",
+          "text": "Jawabanmu",
+          "className": "input-number-field",
+          "width": 918,
+          "height": 52,
+          "shortestSide": 52,
+          "threshold": 54
+        }
+      ]
+    },
+    {
+      "page": "Topik-07",
+      "tab": "kuis",
+      "mode": "normal",
+      "totalInteractive": 11,
+      "failureCount": 2,
+      "failures": [
+        {
+          "tag": "a",
+          "text": "Simulasi Lingkaran SMPMat",
+          "className": "brand",
+          "width": 394,
+          "height": 42,
+          "shortestSide": 42,
+          "threshold": 44
+        },
+        {
+          "tag": "button",
+          "text": "Mode kelas",
+          "className": "mode-ifp-toggle ",
+          "width": 121,
+          "height": 28,
+          "shortestSide": 28,
+          "threshold": 44
+        }
+      ]
+    },
+    {
+      "page": "Topik-07",
+      "tab": "kuis",
+      "mode": "kelas",
+      "totalInteractive": 11,
+      "failureCount": 2,
+      "failures": [
+        {
+          "tag": "a",
+          "text": "Simulasi Lingkaran SMPMat",
+          "className": "brand",
+          "width": 394,
+          "height": 42,
+          "shortestSide": 42,
+          "threshold": 54
+        },
+        {
+          "tag": "input",
+          "text": "Jawabanmu",
+          "className": "input-number-field",
+          "width": 918,
+          "height": 52,
+          "shortestSide": 52,
+          "threshold": 54
+        }
+      ]
+    },
+    {
+      "page": "Topik-08",
+      "tab": "konsep",
+      "mode": "normal",
+      "totalInteractive": 9,
+      "failureCount": 2,
+      "failures": [
+        {
+          "tag": "a",
+          "text": "Simulasi Lingkaran SMPMat",
+          "className": "brand",
+          "width": 394,
+          "height": 42,
+          "shortestSide": 42,
+          "threshold": 44
+        },
+        {
+          "tag": "button",
+          "text": "Mode kelas",
+          "className": "mode-ifp-toggle ",
+          "width": 121,
+          "height": 28,
+          "shortestSide": 28,
+          "threshold": 44
+        }
+      ]
+    },
+    {
+      "page": "Topik-08",
+      "tab": "latihan",
+      "mode": "normal",
+      "totalInteractive": 12,
+      "failureCount": 2,
+      "failures": [
+        {
+          "tag": "a",
+          "text": "Simulasi Lingkaran SMPMat",
+          "className": "brand",
+          "width": 394,
+          "height": 42,
+          "shortestSide": 42,
+          "threshold": 44
+        },
+        {
+          "tag": "button",
+          "text": "Mode kelas",
+          "className": "mode-ifp-toggle ",
+          "width": 121,
+          "height": 28,
+          "shortestSide": 28,
+          "threshold": 44
+        }
+      ]
+    },
+    {
+      "page": "Topik-08",
+      "tab": "kuis",
+      "mode": "normal",
+      "totalInteractive": 11,
+      "failureCount": 2,
+      "failures": [
+        {
+          "tag": "a",
+          "text": "Simulasi Lingkaran SMPMat",
+          "className": "brand",
+          "width": 394,
+          "height": 42,
+          "shortestSide": 42,
+          "threshold": 44
+        },
+        {
+          "tag": "button",
+          "text": "Mode kelas",
+          "className": "mode-ifp-toggle ",
+          "width": 121,
+          "height": 28,
+          "shortestSide": 28,
+          "threshold": 44
+        }
+      ]
+    },
+    {
+      "page": "Topik-09",
+      "tab": "konsep",
+      "mode": "normal",
+      "totalInteractive": 9,
+      "failureCount": 2,
+      "failures": [
+        {
+          "tag": "a",
+          "text": "Simulasi Lingkaran SMPMat",
+          "className": "brand",
+          "width": 394,
+          "height": 42,
+          "shortestSide": 42,
+          "threshold": 44
+        },
+        {
+          "tag": "button",
+          "text": "Mode kelas",
+          "className": "mode-ifp-toggle ",
+          "width": 121,
+          "height": 28,
+          "shortestSide": 28,
+          "threshold": 44
+        }
+      ]
+    },
+    {
+      "page": "Topik-09",
+      "tab": "konsep",
+      "mode": "kelas",
+      "totalInteractive": 9,
+      "failureCount": 1,
+      "failures": [
+        {
+          "tag": "a",
+          "text": "Simulasi Lingkaran SMPMat",
+          "className": "brand",
+          "width": 394,
+          "height": 42,
+          "shortestSide": 42,
+          "threshold": 54
+        }
+      ]
+    },
+    {
+      "page": "Topik-09",
+      "tab": "latihan",
+      "mode": "normal",
+      "totalInteractive": 15,
+      "failureCount": 2,
+      "failures": [
+        {
+          "tag": "a",
+          "text": "Simulasi Lingkaran SMPMat",
+          "className": "brand",
+          "width": 394,
+          "height": 42,
+          "shortestSide": 42,
+          "threshold": 44
+        },
+        {
+          "tag": "button",
+          "text": "Mode kelas",
+          "className": "mode-ifp-toggle ",
+          "width": 121,
+          "height": 28,
+          "shortestSide": 28,
+          "threshold": 44
+        }
+      ]
+    },
+    {
+      "page": "Topik-09",
+      "tab": "latihan",
+      "mode": "kelas",
+      "totalInteractive": 15,
+      "failureCount": 1,
+      "failures": [
+        {
+          "tag": "a",
+          "text": "Simulasi Lingkaran SMPMat",
+          "className": "brand",
+          "width": 394,
+          "height": 42,
+          "shortestSide": 42,
+          "threshold": 54
+        }
+      ]
+    },
+    {
+      "page": "Topik-09",
+      "tab": "kuis",
+      "mode": "normal",
+      "totalInteractive": 14,
+      "failureCount": 2,
+      "failures": [
+        {
+          "tag": "a",
+          "text": "Simulasi Lingkaran SMPMat",
+          "className": "brand",
+          "width": 394,
+          "height": 42,
+          "shortestSide": 42,
+          "threshold": 44
+        },
+        {
+          "tag": "button",
+          "text": "Mode kelas",
+          "className": "mode-ifp-toggle ",
+          "width": 121,
+          "height": 28,
+          "shortestSide": 28,
+          "threshold": 44
+        }
+      ]
+    },
+    {
+      "page": "Topik-09",
+      "tab": "kuis",
+      "mode": "kelas",
+      "totalInteractive": 14,
+      "failureCount": 1,
+      "failures": [
+        {
+          "tag": "a",
+          "text": "Simulasi Lingkaran SMPMat",
+          "className": "brand",
+          "width": 394,
+          "height": 42,
+          "shortestSide": 42,
+          "threshold": 54
+        }
+      ]
+    },
+    {
+      "page": "Topik-10",
+      "tab": "konsep",
+      "mode": "normal",
+      "totalInteractive": 9,
+      "failureCount": 2,
+      "failures": [
+        {
+          "tag": "a",
+          "text": "Simulasi Lingkaran SMPMat",
+          "className": "brand",
+          "width": 394,
+          "height": 42,
+          "shortestSide": 42,
+          "threshold": 44
+        },
+        {
+          "tag": "button",
+          "text": "Mode kelas",
+          "className": "mode-ifp-toggle ",
+          "width": 121,
+          "height": 28,
+          "shortestSide": 28,
+          "threshold": 44
+        }
+      ]
+    },
+    {
+      "page": "Topik-10",
+      "tab": "latihan",
+      "mode": "normal",
+      "totalInteractive": 17,
+      "failureCount": 2,
+      "failures": [
+        {
+          "tag": "a",
+          "text": "Simulasi Lingkaran SMPMat",
+          "className": "brand",
+          "width": 394,
+          "height": 42,
+          "shortestSide": 42,
+          "threshold": 44
+        },
+        {
+          "tag": "button",
+          "text": "Mode kelas",
+          "className": "mode-ifp-toggle ",
+          "width": 121,
+          "height": 28,
+          "shortestSide": 28,
+          "threshold": 44
+        }
+      ]
+    },
+    {
+      "page": "Topik-10",
+      "tab": "kuis",
+      "mode": "normal",
+      "totalInteractive": 14,
+      "failureCount": 2,
+      "failures": [
+        {
+          "tag": "a",
+          "text": "Simulasi Lingkaran SMPMat",
+          "className": "brand",
+          "width": 394,
+          "height": 42,
+          "shortestSide": 42,
+          "threshold": 44
+        },
+        {
+          "tag": "button",
+          "text": "Mode kelas",
+          "className": "mode-ifp-toggle ",
+          "width": 121,
+          "height": 28,
+          "shortestSide": 28,
+          "threshold": 44
+        }
+      ]
+    }
+  ],
+  "contrast": [
+    {
+      "page": "Beranda",
+      "mode": "normal",
+      "contrastFailures": [
+        {
+          "tag": "span",
+          "className": "eyebrow hero-eyebrow",
+          "text": "Simulasi Lingkaran SMP",
+          "ratio": 1.35,
+          "required": 4.5,
+          "fontSize": 15.2,
+          "fg": "rgb(185, 216, 245)",
+          "bg": "rgb(240,245,250)"
+        },
+        {
+          "tag": "h1",
+          "className": "hero-title",
+          "text": "Eksplorasi Geometri Interaktif",
+          "ratio": 1.1,
+          "required": 3,
+          "fontSize": 41.6,
+          "fg": "rgb(255, 255, 255)",
+          "bg": "rgb(240,245,250)"
+        },
+        {
+          "tag": "p",
+          "className": "hero-desc",
+          "text": "Tarik titik, putar sudut, dan ",
+          "ratio": 1.08,
+          "required": 4.5,
+          "fontSize": 17.2,
+          "fg": "rgb(224, 237, 250)",
+          "bg": "rgb(240,245,250)"
+        },
+        {
+          "tag": "a",
+          "className": "btn-secondary-hero",
+          "text": "Lihat 10 Topik",
+          "ratio": 1,
+          "required": 4.5,
+          "fontSize": 17.2,
+          "fg": "rgb(255, 255, 255)",
+          "bg": "rgb(255,255,255)"
+        },
+        {
+          "tag": "span",
+          "className": "widget-title",
+          "text": "Kemajuan Belajar",
+          "ratio": 1.48,
+          "required": 4.5,
+          "fontSize": 15.2,
+          "fg": "rgb(185, 216, 245)",
+          "bg": "rgb(255,255,255)"
+        },
+        {
+          "tag": "span",
+          "className": "widget-subtitle",
+          "text": "Kurikulum Merdeka",
+          "ratio": 1.28,
+          "required": 4.5,
+          "fontSize": 15.2,
+          "fg": "rgb(210, 230, 250)",
+          "bg": "rgb(255,255,255)"
+        },
+        {
+          "tag": "span",
+          "className": "progress-number",
+          "text": "0/10",
+          "ratio": 1,
+          "required": 3,
+          "fontSize": 40,
+          "fg": "rgb(255, 255, 255)",
+          "bg": "rgb(255,255,255)"
+        },
+        {
+          "tag": "span",
+          "className": "progress-sub",
+          "text": "Topik Selesai",
+          "ratio": 1.28,
+          "required": 4.5,
+          "fontSize": 17.2,
+          "fg": "rgb(210, 230, 250)",
+          "bg": "rgb(255,255,255)"
+        },
+        {
+          "tag": "span",
+          "className": "progress-empty-hint",
+          "text": "Selesaikan kuis untuk mencatat",
+          "ratio": 1.48,
+          "required": 4.5,
+          "fontSize": 15.2,
+          "fg": "rgb(185, 216, 245)",
+          "bg": "rgb(255,255,255)"
+        }
+      ],
+      "totalFailures": 9
+    },
+    {
+      "page": "Beranda",
+      "mode": "kelas",
+      "contrastFailures": [
+        {
+          "tag": "span",
+          "className": "eyebrow hero-eyebrow",
+          "text": "Simulasi Lingkaran SMP",
+          "ratio": 1.35,
+          "required": 4.5,
+          "fontSize": 15.2,
+          "fg": "rgb(185, 216, 245)",
+          "bg": "rgb(240,245,250)"
+        },
+        {
+          "tag": "h1",
+          "className": "hero-title",
+          "text": "Eksplorasi Geometri Interaktif",
+          "ratio": 1.1,
+          "required": 3,
+          "fontSize": 41.6,
+          "fg": "rgb(255, 255, 255)",
+          "bg": "rgb(240,245,250)"
+        },
+        {
+          "tag": "p",
+          "className": "hero-desc",
+          "text": "Tarik titik, putar sudut, dan ",
+          "ratio": 1.08,
+          "required": 4.5,
+          "fontSize": 20,
+          "fg": "rgb(224, 237, 250)",
+          "bg": "rgb(240,245,250)"
+        },
+        {
+          "tag": "a",
+          "className": "btn-secondary-hero",
+          "text": "Lihat 10 Topik",
+          "ratio": 1,
+          "required": 3,
+          "fontSize": 20,
+          "fg": "rgb(255, 255, 255)",
+          "bg": "rgb(255,255,255)"
+        },
+        {
+          "tag": "span",
+          "className": "widget-title",
+          "text": "Kemajuan Belajar",
+          "ratio": 1.48,
+          "required": 4.5,
+          "fontSize": 15.2,
+          "fg": "rgb(185, 216, 245)",
+          "bg": "rgb(255,255,255)"
+        },
+        {
+          "tag": "span",
+          "className": "widget-subtitle",
+          "text": "Kurikulum Merdeka",
+          "ratio": 1.28,
+          "required": 4.5,
+          "fontSize": 15.2,
+          "fg": "rgb(210, 230, 250)",
+          "bg": "rgb(255,255,255)"
+        },
+        {
+          "tag": "span",
+          "className": "progress-number",
+          "text": "0/10",
+          "ratio": 1,
+          "required": 3,
+          "fontSize": 40,
+          "fg": "rgb(255, 255, 255)",
+          "bg": "rgb(255,255,255)"
+        },
+        {
+          "tag": "span",
+          "className": "progress-sub",
+          "text": "Topik Selesai",
+          "ratio": 1.28,
+          "required": 4.5,
+          "fontSize": 20,
+          "fg": "rgb(210, 230, 250)",
+          "bg": "rgb(255,255,255)"
+        },
+        {
+          "tag": "span",
+          "className": "progress-empty-hint",
+          "text": "Selesaikan kuis untuk mencatat",
+          "ratio": 1.48,
+          "required": 4.5,
+          "fontSize": 15.2,
+          "fg": "rgb(185, 216, 245)",
+          "bg": "rgb(255,255,255)"
+        }
+      ],
+      "totalFailures": 9
+    },
+    {
+      "page": "Topik-01",
+      "tab": "eksplorasi",
+      "mode": "normal",
+      "contrastFailures": [
+        {
+          "tag": "span",
+          "className": "topic-eyebrow-unified",
+          "text": "Rumpun I · Topik 01 dari 10",
+          "ratio": 1.96,
+          "required": 4.5,
+          "fontSize": 13.44,
+          "fg": "rgb(245, 158, 11)",
+          "bg": "rgb(240,245,250)"
+        },
+        {
+          "tag": "span",
+          "className": "chip-number",
+          "text": "2.",
+          "ratio": 4.1,
+          "required": 4.5,
+          "fontSize": 15.2,
+          "fg": "rgb(2, 132, 199)",
+          "bg": "rgb(255,255,255)"
+        },
+        {
+          "tag": "span",
+          "className": "",
+          "text": "Jari-jari",
+          "ratio": 4.1,
+          "required": 4.5,
+          "fontSize": 15.2,
+          "fg": "rgb(2, 132, 199)",
+          "bg": "rgb(255,255,255)"
+        }
+      ],
+      "totalFailures": 3
+    },
+    {
+      "page": "Topik-02",
+      "tab": "eksplorasi",
+      "mode": "normal",
+      "contrastFailures": [
+        {
+          "tag": "span",
+          "className": "topic-eyebrow-unified",
+          "text": "Rumpun I · Topik 02 dari 10",
+          "ratio": 1.96,
+          "required": 4.5,
+          "fontSize": 13.44,
+          "fg": "rgb(245, 158, 11)",
+          "bg": "rgb(240,245,250)"
+        }
+      ],
+      "totalFailures": 1
+    },
+    {
+      "page": "Topik-03",
+      "tab": "eksplorasi",
+      "mode": "normal",
+      "contrastFailures": [
+        {
+          "tag": "span",
+          "className": "topic-eyebrow-unified",
+          "text": "Rumpun I · Topik 03 dari 10",
+          "ratio": 1.96,
+          "required": 4.5,
+          "fontSize": 13.44,
+          "fg": "rgb(245, 158, 11)",
+          "bg": "rgb(240,245,250)"
+        }
+      ],
+      "totalFailures": 1
+    },
+    {
+      "page": "Topik-04",
+      "tab": "eksplorasi",
+      "mode": "normal",
+      "contrastFailures": [
+        {
+          "tag": "span",
+          "className": "topic-eyebrow-unified",
+          "text": "Rumpun II · Topik 04 dari 10",
+          "ratio": 1.96,
+          "required": 4.5,
+          "fontSize": 13.44,
+          "fg": "rgb(245, 158, 11)",
+          "bg": "rgb(240,245,250)"
+        }
+      ],
+      "totalFailures": 1
+    },
+    {
+      "page": "Topik-05",
+      "tab": "eksplorasi",
+      "mode": "normal",
+      "contrastFailures": [
+        {
+          "tag": "span",
+          "className": "topic-eyebrow-unified",
+          "text": "Rumpun II · Topik 05 dari 10",
+          "ratio": 1.96,
+          "required": 4.5,
+          "fontSize": 13.44,
+          "fg": "rgb(245, 158, 11)",
+          "bg": "rgb(240,245,250)"
+        }
+      ],
+      "totalFailures": 1
+    },
+    {
+      "page": "Topik-06",
+      "tab": "eksplorasi",
+      "mode": "normal",
+      "contrastFailures": [
+        {
+          "tag": "span",
+          "className": "topic-eyebrow-unified",
+          "text": "Rumpun II · Topik 06 dari 10",
+          "ratio": 1.96,
+          "required": 4.5,
+          "fontSize": 13.44,
+          "fg": "rgb(245, 158, 11)",
+          "bg": "rgb(240,245,250)"
+        }
+      ],
+      "totalFailures": 1
+    },
+    {
+      "page": "Topik-07",
+      "tab": "eksplorasi",
+      "mode": "normal",
+      "contrastFailures": [
+        {
+          "tag": "span",
+          "className": "topic-eyebrow-unified",
+          "text": "Rumpun III · Topik 07 dari 10",
+          "ratio": 1.96,
+          "required": 4.5,
+          "fontSize": 13.44,
+          "fg": "rgb(245, 158, 11)",
+          "bg": "rgb(240,245,250)"
+        }
+      ],
+      "totalFailures": 1
+    },
+    {
+      "page": "Topik-08",
+      "tab": "eksplorasi",
+      "mode": "normal",
+      "contrastFailures": [
+        {
+          "tag": "span",
+          "className": "topic-eyebrow-unified",
+          "text": "Rumpun III · Topik 08 dari 10",
+          "ratio": 1.96,
+          "required": 4.5,
+          "fontSize": 13.44,
+          "fg": "rgb(245, 158, 11)",
+          "bg": "rgb(240,245,250)"
+        }
+      ],
+      "totalFailures": 1
+    },
+    {
+      "page": "Topik-09",
+      "tab": "eksplorasi",
+      "mode": "normal",
+      "contrastFailures": [
+        {
+          "tag": "span",
+          "className": "topic-eyebrow-unified",
+          "text": "Rumpun IV · Topik 09 dari 10",
+          "ratio": 1.96,
+          "required": 4.5,
+          "fontSize": 13.44,
+          "fg": "rgb(245, 158, 11)",
+          "bg": "rgb(240,245,250)"
+        }
+      ],
+      "totalFailures": 1
+    },
+    {
+      "page": "Topik-10",
+      "tab": "eksplorasi",
+      "mode": "normal",
+      "contrastFailures": [
+        {
+          "tag": "span",
+          "className": "topic-eyebrow-unified",
+          "text": "Rumpun IV · Topik 10 dari 10",
+          "ratio": 1.96,
+          "required": 4.5,
+          "fontSize": 13.44,
+          "fg": "rgb(245, 158, 11)",
+          "bg": "rgb(240,245,250)"
+        }
+      ],
+      "totalFailures": 1
+    },
+    {
+      "page": "Topik-01",
+      "tab": "konsep",
+      "mode": "normal",
+      "contrastFailures": [
+        {
+          "tag": "span",
+          "className": "topic-eyebrow-unified",
+          "text": "Rumpun I · Topik 01 dari 10",
+          "ratio": 1.96,
+          "required": 4.5,
+          "fontSize": 13.44,
+          "fg": "rgb(245, 158, 11)",
+          "bg": "rgb(240,245,250)"
+        }
+      ],
+      "totalFailures": 1
+    },
+    {
+      "page": "Topik-01",
+      "tab": "latihan",
+      "mode": "normal",
+      "contrastFailures": [
+        {
+          "tag": "span",
+          "className": "topic-eyebrow-unified",
+          "text": "Rumpun I · Topik 01 dari 10",
+          "ratio": 1.96,
+          "required": 4.5,
+          "fontSize": 13.44,
+          "fg": "rgb(245, 158, 11)",
+          "bg": "rgb(240,245,250)"
+        }
+      ],
+      "totalFailures": 1
+    },
+    {
+      "page": "Topik-01",
+      "tab": "kuis",
+      "mode": "normal",
+      "contrastFailures": [
+        {
+          "tag": "span",
+          "className": "topic-eyebrow-unified",
+          "text": "Rumpun I · Topik 01 dari 10",
+          "ratio": 1.96,
+          "required": 4.5,
+          "fontSize": 13.44,
+          "fg": "rgb(245, 158, 11)",
+          "bg": "rgb(240,245,250)"
+        }
+      ],
+      "totalFailures": 1
+    },
+    {
+      "page": "Topik-02",
+      "tab": "konsep",
+      "mode": "normal",
+      "contrastFailures": [
+        {
+          "tag": "span",
+          "className": "topic-eyebrow-unified",
+          "text": "Rumpun I · Topik 02 dari 10",
+          "ratio": 1.96,
+          "required": 4.5,
+          "fontSize": 13.44,
+          "fg": "rgb(245, 158, 11)",
+          "bg": "rgb(240,245,250)"
+        }
+      ],
+      "totalFailures": 1
+    },
+    {
+      "page": "Topik-02",
+      "tab": "latihan",
+      "mode": "normal",
+      "contrastFailures": [
+        {
+          "tag": "span",
+          "className": "topic-eyebrow-unified",
+          "text": "Rumpun I · Topik 02 dari 10",
+          "ratio": 1.96,
+          "required": 4.5,
+          "fontSize": 13.44,
+          "fg": "rgb(245, 158, 11)",
+          "bg": "rgb(240,245,250)"
+        }
+      ],
+      "totalFailures": 1
+    },
+    {
+      "page": "Topik-02",
+      "tab": "kuis",
+      "mode": "normal",
+      "contrastFailures": [
+        {
+          "tag": "span",
+          "className": "topic-eyebrow-unified",
+          "text": "Rumpun I · Topik 02 dari 10",
+          "ratio": 1.96,
+          "required": 4.5,
+          "fontSize": 13.44,
+          "fg": "rgb(245, 158, 11)",
+          "bg": "rgb(240,245,250)"
+        }
+      ],
+      "totalFailures": 1
+    },
+    {
+      "page": "Topik-03",
+      "tab": "konsep",
+      "mode": "normal",
+      "contrastFailures": [
+        {
+          "tag": "span",
+          "className": "topic-eyebrow-unified",
+          "text": "Rumpun I · Topik 03 dari 10",
+          "ratio": 1.96,
+          "required": 4.5,
+          "fontSize": 13.44,
+          "fg": "rgb(245, 158, 11)",
+          "bg": "rgb(240,245,250)"
+        }
+      ],
+      "totalFailures": 1
+    },
+    {
+      "page": "Topik-03",
+      "tab": "latihan",
+      "mode": "normal",
+      "contrastFailures": [
+        {
+          "tag": "span",
+          "className": "topic-eyebrow-unified",
+          "text": "Rumpun I · Topik 03 dari 10",
+          "ratio": 1.96,
+          "required": 4.5,
+          "fontSize": 13.44,
+          "fg": "rgb(245, 158, 11)",
+          "bg": "rgb(240,245,250)"
+        }
+      ],
+      "totalFailures": 1
+    },
+    {
+      "page": "Topik-03",
+      "tab": "kuis",
+      "mode": "normal",
+      "contrastFailures": [
+        {
+          "tag": "span",
+          "className": "topic-eyebrow-unified",
+          "text": "Rumpun I · Topik 03 dari 10",
+          "ratio": 1.96,
+          "required": 4.5,
+          "fontSize": 13.44,
+          "fg": "rgb(245, 158, 11)",
+          "bg": "rgb(240,245,250)"
+        }
+      ],
+      "totalFailures": 1
+    },
+    {
+      "page": "Topik-04",
+      "tab": "konsep",
+      "mode": "normal",
+      "contrastFailures": [
+        {
+          "tag": "span",
+          "className": "topic-eyebrow-unified",
+          "text": "Rumpun II · Topik 04 dari 10",
+          "ratio": 1.96,
+          "required": 4.5,
+          "fontSize": 13.44,
+          "fg": "rgb(245, 158, 11)",
+          "bg": "rgb(240,245,250)"
+        }
+      ],
+      "totalFailures": 1
+    },
+    {
+      "page": "Topik-04",
+      "tab": "latihan",
+      "mode": "normal",
+      "contrastFailures": [
+        {
+          "tag": "span",
+          "className": "topic-eyebrow-unified",
+          "text": "Rumpun II · Topik 04 dari 10",
+          "ratio": 1.96,
+          "required": 4.5,
+          "fontSize": 13.44,
+          "fg": "rgb(245, 158, 11)",
+          "bg": "rgb(240,245,250)"
+        }
+      ],
+      "totalFailures": 1
+    },
+    {
+      "page": "Topik-04",
+      "tab": "kuis",
+      "mode": "normal",
+      "contrastFailures": [
+        {
+          "tag": "span",
+          "className": "topic-eyebrow-unified",
+          "text": "Rumpun II · Topik 04 dari 10",
+          "ratio": 1.96,
+          "required": 4.5,
+          "fontSize": 13.44,
+          "fg": "rgb(245, 158, 11)",
+          "bg": "rgb(240,245,250)"
+        }
+      ],
+      "totalFailures": 1
+    },
+    {
+      "page": "Topik-05",
+      "tab": "konsep",
+      "mode": "normal",
+      "contrastFailures": [
+        {
+          "tag": "span",
+          "className": "topic-eyebrow-unified",
+          "text": "Rumpun II · Topik 05 dari 10",
+          "ratio": 1.96,
+          "required": 4.5,
+          "fontSize": 13.44,
+          "fg": "rgb(245, 158, 11)",
+          "bg": "rgb(240,245,250)"
+        }
+      ],
+      "totalFailures": 1
+    },
+    {
+      "page": "Topik-05",
+      "tab": "latihan",
+      "mode": "normal",
+      "contrastFailures": [
+        {
+          "tag": "span",
+          "className": "topic-eyebrow-unified",
+          "text": "Rumpun II · Topik 05 dari 10",
+          "ratio": 1.96,
+          "required": 4.5,
+          "fontSize": 13.44,
+          "fg": "rgb(245, 158, 11)",
+          "bg": "rgb(240,245,250)"
+        }
+      ],
+      "totalFailures": 1
+    },
+    {
+      "page": "Topik-05",
+      "tab": "kuis",
+      "mode": "normal",
+      "contrastFailures": [
+        {
+          "tag": "span",
+          "className": "topic-eyebrow-unified",
+          "text": "Rumpun II · Topik 05 dari 10",
+          "ratio": 1.96,
+          "required": 4.5,
+          "fontSize": 13.44,
+          "fg": "rgb(245, 158, 11)",
+          "bg": "rgb(240,245,250)"
+        }
+      ],
+      "totalFailures": 1
+    },
+    {
+      "page": "Topik-06",
+      "tab": "konsep",
+      "mode": "normal",
+      "contrastFailures": [
+        {
+          "tag": "span",
+          "className": "topic-eyebrow-unified",
+          "text": "Rumpun II · Topik 06 dari 10",
+          "ratio": 1.96,
+          "required": 4.5,
+          "fontSize": 13.44,
+          "fg": "rgb(245, 158, 11)",
+          "bg": "rgb(240,245,250)"
+        }
+      ],
+      "totalFailures": 1
+    },
+    {
+      "page": "Topik-06",
+      "tab": "latihan",
+      "mode": "normal",
+      "contrastFailures": [
+        {
+          "tag": "span",
+          "className": "topic-eyebrow-unified",
+          "text": "Rumpun II · Topik 06 dari 10",
+          "ratio": 1.96,
+          "required": 4.5,
+          "fontSize": 13.44,
+          "fg": "rgb(245, 158, 11)",
+          "bg": "rgb(240,245,250)"
+        }
+      ],
+      "totalFailures": 1
+    },
+    {
+      "page": "Topik-06",
+      "tab": "kuis",
+      "mode": "normal",
+      "contrastFailures": [
+        {
+          "tag": "span",
+          "className": "topic-eyebrow-unified",
+          "text": "Rumpun II · Topik 06 dari 10",
+          "ratio": 1.96,
+          "required": 4.5,
+          "fontSize": 13.44,
+          "fg": "rgb(245, 158, 11)",
+          "bg": "rgb(240,245,250)"
+        }
+      ],
+      "totalFailures": 1
+    },
+    {
+      "page": "Topik-07",
+      "tab": "konsep",
+      "mode": "normal",
+      "contrastFailures": [
+        {
+          "tag": "span",
+          "className": "topic-eyebrow-unified",
+          "text": "Rumpun III · Topik 07 dari 10",
+          "ratio": 1.96,
+          "required": 4.5,
+          "fontSize": 13.44,
+          "fg": "rgb(245, 158, 11)",
+          "bg": "rgb(240,245,250)"
+        }
+      ],
+      "totalFailures": 1
+    },
+    {
+      "page": "Topik-07",
+      "tab": "latihan",
+      "mode": "normal",
+      "contrastFailures": [
+        {
+          "tag": "span",
+          "className": "topic-eyebrow-unified",
+          "text": "Rumpun III · Topik 07 dari 10",
+          "ratio": 1.96,
+          "required": 4.5,
+          "fontSize": 13.44,
+          "fg": "rgb(245, 158, 11)",
+          "bg": "rgb(240,245,250)"
+        }
+      ],
+      "totalFailures": 1
+    },
+    {
+      "page": "Topik-07",
+      "tab": "kuis",
+      "mode": "normal",
+      "contrastFailures": [
+        {
+          "tag": "span",
+          "className": "topic-eyebrow-unified",
+          "text": "Rumpun III · Topik 07 dari 10",
+          "ratio": 1.96,
+          "required": 4.5,
+          "fontSize": 13.44,
+          "fg": "rgb(245, 158, 11)",
+          "bg": "rgb(240,245,250)"
+        }
+      ],
+      "totalFailures": 1
+    },
+    {
+      "page": "Topik-08",
+      "tab": "konsep",
+      "mode": "normal",
+      "contrastFailures": [
+        {
+          "tag": "span",
+          "className": "topic-eyebrow-unified",
+          "text": "Rumpun III · Topik 08 dari 10",
+          "ratio": 1.96,
+          "required": 4.5,
+          "fontSize": 13.44,
+          "fg": "rgb(245, 158, 11)",
+          "bg": "rgb(240,245,250)"
+        }
+      ],
+      "totalFailures": 1
+    },
+    {
+      "page": "Topik-08",
+      "tab": "latihan",
+      "mode": "normal",
+      "contrastFailures": [
+        {
+          "tag": "span",
+          "className": "topic-eyebrow-unified",
+          "text": "Rumpun III · Topik 08 dari 10",
+          "ratio": 1.96,
+          "required": 4.5,
+          "fontSize": 13.44,
+          "fg": "rgb(245, 158, 11)",
+          "bg": "rgb(240,245,250)"
+        }
+      ],
+      "totalFailures": 1
+    },
+    {
+      "page": "Topik-08",
+      "tab": "kuis",
+      "mode": "normal",
+      "contrastFailures": [
+        {
+          "tag": "span",
+          "className": "topic-eyebrow-unified",
+          "text": "Rumpun III · Topik 08 dari 10",
+          "ratio": 1.96,
+          "required": 4.5,
+          "fontSize": 13.44,
+          "fg": "rgb(245, 158, 11)",
+          "bg": "rgb(240,245,250)"
+        }
+      ],
+      "totalFailures": 1
+    },
+    {
+      "page": "Topik-09",
+      "tab": "konsep",
+      "mode": "normal",
+      "contrastFailures": [
+        {
+          "tag": "span",
+          "className": "topic-eyebrow-unified",
+          "text": "Rumpun IV · Topik 09 dari 10",
+          "ratio": 1.96,
+          "required": 4.5,
+          "fontSize": 13.44,
+          "fg": "rgb(245, 158, 11)",
+          "bg": "rgb(240,245,250)"
+        }
+      ],
+      "totalFailures": 1
+    },
+    {
+      "page": "Topik-09",
+      "tab": "latihan",
+      "mode": "normal",
+      "contrastFailures": [
+        {
+          "tag": "span",
+          "className": "topic-eyebrow-unified",
+          "text": "Rumpun IV · Topik 09 dari 10",
+          "ratio": 1.96,
+          "required": 4.5,
+          "fontSize": 13.44,
+          "fg": "rgb(245, 158, 11)",
+          "bg": "rgb(240,245,250)"
+        }
+      ],
+      "totalFailures": 1
+    },
+    {
+      "page": "Topik-09",
+      "tab": "kuis",
+      "mode": "normal",
+      "contrastFailures": [
+        {
+          "tag": "span",
+          "className": "topic-eyebrow-unified",
+          "text": "Rumpun IV · Topik 09 dari 10",
+          "ratio": 1.96,
+          "required": 4.5,
+          "fontSize": 13.44,
+          "fg": "rgb(245, 158, 11)",
+          "bg": "rgb(240,245,250)"
+        }
+      ],
+      "totalFailures": 1
+    },
+    {
+      "page": "Topik-10",
+      "tab": "konsep",
+      "mode": "normal",
+      "contrastFailures": [
+        {
+          "tag": "span",
+          "className": "topic-eyebrow-unified",
+          "text": "Rumpun IV · Topik 10 dari 10",
+          "ratio": 1.96,
+          "required": 4.5,
+          "fontSize": 13.44,
+          "fg": "rgb(245, 158, 11)",
+          "bg": "rgb(240,245,250)"
+        }
+      ],
+      "totalFailures": 1
+    },
+    {
+      "page": "Topik-10",
+      "tab": "latihan",
+      "mode": "normal",
+      "contrastFailures": [
+        {
+          "tag": "span",
+          "className": "topic-eyebrow-unified",
+          "text": "Rumpun IV · Topik 10 dari 10",
+          "ratio": 1.96,
+          "required": 4.5,
+          "fontSize": 13.44,
+          "fg": "rgb(245, 158, 11)",
+          "bg": "rgb(240,245,250)"
+        }
+      ],
+      "totalFailures": 1
+    },
+    {
+      "page": "Topik-10",
+      "tab": "kuis",
+      "mode": "normal",
+      "contrastFailures": [
+        {
+          "tag": "span",
+          "className": "topic-eyebrow-unified",
+          "text": "Rumpun IV · Topik 10 dari 10",
+          "ratio": 1.96,
+          "required": 4.5,
+          "fontSize": 13.44,
+          "fg": "rgb(245, 158, 11)",
+          "bg": "rgb(240,245,250)"
+        }
+      ],
+      "totalFailures": 1
+    }
+  ],
+  "sticky": [],
+  "special": []
+}

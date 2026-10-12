@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mockup Arah A — Penyempurnaan Konservatif Grid</title>
+  <style>
+    :root {
+      --warna-latar: #f4f8fc;
+      --warna-permukaan: #ffffff;
+      --warna-utama: #12375f;
+      --warna-utama-muda: #e4edf6;
+      --warna-aksen: #d97706;
+      --warna-teks: #0f2338;
+      --warna-teks-lembut: #475a6e;
+      --warna-garis: #cadbe9;
+      --bayangan: 0 4px 14px rgba(18, 55, 95, 0.08);
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, system-ui, sans-serif;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { background: var(--warna-latar); color: var(--warna-teks); line-height: 1.5; }
+    .page-shell { width: min(1560px, calc(100% - 48px)); margin: 0 auto; padding: 40px 0 60px; }
+    
+    .home-hero { display: flex; align-items: center; justify-content: space-between; gap: 24px; padding-bottom: 28px; border-bottom: 2px solid var(--warna-garis); margin-bottom: 28px; }
+    .hero-title-group { display: flex; align-items: center; gap: 20px; }
+    .hero-mark { width: 72px; height: 72px; border-radius: 18px; background: var(--warna-utama); display: grid; place-items: center; color: #fff; }
+    .eyebrow { font-size: 0.82rem; font-weight: 800; color: var(--warna-teks-lembut); text-transform: uppercase; letter-spacing: 0.06em; }
+    h1 { font-size: clamp(2rem, 3.2vw, 3rem); font-weight: 850; color: var(--warna-utama); letter-spacing: -0.03em; }
+    .hero-desc { font-size: 1.1rem; color: var(--warna-teks-lembut); }
+
+    .hero-stats-badge { display: flex; gap: 16px; background: var(--warna-permukaan); border: 1.5px solid var(--warna-garis); border-radius: 14px; padding: 12px 20px; box-shadow: var(--bayangan); }
+    .hero-stats-badge div { display: grid; text-align: center; }
+    .hero-stats-badge strong { font-size: 1.6rem; color: var(--warna-utama); font-weight: 850; }
+    .hero-stats-badge span { font-size: 0.78rem; font-weight: 700; color: var(--warna-teks-lembut); text-transform: uppercase; }
+
+    /* 5-Column Grid for exactly 2 balanced rows of 5 cards = 10 cards */
+    .grid-header { display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 20px; }
+    .grid-header h2 { font-size: 1.5rem; font-weight: 800; color: var(--warna-utama); }
+    .topic-grid-5 { display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); gap: 16px; }
+
+    .topic-card { background: var(--warna-permukaan); border: 1.5px solid var(--warna-garis); border-radius: 16px; display: flex; flex-direction: column; overflow: hidden; text-decoration: none; color: inherit; box-shadow: var(--bayangan); transition: transform 0.16s ease, border-color 0.16s ease; }
+    .topic-card:hover { transform: translateY(-3px); border-color: var(--warna-utama); }
+
+    .card-top { height: 110px; background: linear-gradient(135deg, #f0f6fc, #ffffff); border-bottom: 1px solid var(--warna-garis); position: relative; display: flex; align-items: center; justify-content: center; padding: 10px; }
+    .card-num { position: absolute; top: 10px; left: 12px; font-size: 0.82rem; font-weight: 850; color: var(--warna-teks-lembut); background: #fff; padding: 2px 7px; border-radius: 6px; border: 1px solid var(--warna-garis); }
+    .card-score { position: absolute; top: 10px; right: 12px; font-size: 0.76rem; font-weight: 800; color: #166534; background: #dcfce7; padding: 2px 7px; border-radius: 6px; }
+
+    .card-body { padding: 16px; display: flex; flex-direction: column; flex: 1; }
+    .card-body h3 { font-size: 1.05rem; font-weight: 800; color: var(--warna-utama); margin-bottom: 6px; line-height: 1.3; }
+    .card-body p { font-size: 0.88rem; color: var(--warna-teks-lembut); line-height: 1.45; margin-bottom: 14px; flex: 1; }
+    .card-foot { display: flex; justify-content: space-between; align-items: center; font-size: 0.82rem; font-weight: 750; color: var(--warna-utama); padding-top: 10px; border-top: 1px solid #eef4f9; }
+
+    .home-footer { text-align: center; padding-top: 48px; color: var(--warna-teks-lembut); font-size: 0.88rem; }
+
+    @media (max-width: 1380px) {
+      .topic-grid-5 { grid-template-columns: repeat(4, 1fr); }
+    }
+    @media (max-width: 980px) {
+      .home-hero { flex-direction: column; align-items: flex-start; }
+      .topic-grid-5 { grid-template-columns: repeat(2, 1fr); }
+    }
+    @media (max-width: 540px) {
+      .topic-grid-5 { grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+<body>
+  <div class="page-shell">
+    <header class="home-hero">
+      <div class="hero-title-group">
+        <div class="hero-mark">
+          <svg width="40" height="40" viewBox="0 0 40 40" fill="none"><circle cx="20" cy="20" r="14" stroke="#ffffff" stroke-width="3"/><path d="M20 20 L34 20" stroke="#f59e0b" stroke-width="3" stroke-linecap="round"/><circle cx="20" cy="20" r="3.5" fill="#f59e0b"/></svg>
+        </div>
+        <div>
+          <span class="eyebrow">Matematika SMP Kelas 9 · Kurikulum Merdeka</span>
+          <h1>Simulasi Lingkaran SMP</h1>
+          <p class="hero-desc">10 topik eksplorasi geometri interaktif dengan KaTeX & visual SVG terkalibrasi.</p>
+        </div>
+      </div>
+      <div class="hero-stats-badge">
+        <div><strong>10</strong><span>Topik</span></div>
+        <div style="width: 1px; background: var(--warna-garis);"></div>
+        <div><strong>4</strong><span>Selesai</span></div>
+        <div style="width: 1px; background: var(--warna-garis);"></div>
+        <div><strong>100%</strong><span>Offline</span></div>
+      </div>
+    </header>
+
+    <div class="grid-header">
+      <h2>Pilih Topik Simulasi</h2>
+      <span style="font-size: 0.92rem; color: var(--warna-teks-lembut); font-weight: 700;">Semua topik aktif dapat dieksplorasi</span>
+    </div>
+
+    <!-- 10 Cards in a clean 5-column balanced grid (2 rows x 5 columns) -->
+    <section class="topic-grid-5">
+      <!-- 01 -->
+      <a href="#" class="topic-card">
+        <div class="card-top">
+          <span class="card-num">01</span>
+          <span class="card-score">Skor 5/5</span>
+          <svg width="120" height="70" viewBox="0 0 120 70">
+            <circle cx="60" cy="35" r="26" fill="#e0f2fe" stroke="#0284c7" stroke-width="2"/>
+            <line x1="60" y1="35" x2="86" y2="35" stroke="#0284c7" stroke-width="3"/>
+            <circle cx="60" cy="35" r="3.5" fill="#0284c7"/>
+          </svg>
+        </div>
+        <div class="card-body">
+          <h3>Unsur Lingkaran</h3>
+          <p>Kenali 8 bagian geometri pada lingkaran secara interaktif.</p>
+          <div class="card-foot"><span>4 Tab</span><span>Buka →</span></div>
+        </div>
+      </a>
+
+      <!-- 02 -->
+      <a href="#" class="topic-card">
+        <div class="card-top">
+          <span class="card-num">02</span>
+          <span class="card-score">Skor 4/5</span>
+          <svg width="120" height="70" viewBox="0 0 120 70">
+            <line x1="15" y1="52" x2="105" y2="52" stroke="#64748b" stroke-width="2"/>
+            <circle cx="45" cy="32" r="20" fill="#fee2e2" stroke="#dc2626" stroke-width="2"/>
+            <path d="M 25 52 L 85 52" stroke="#059669" stroke-width="3"/>
+          </svg>
+        </div>
+        <div class="card-body">
+          <h3>Keliling Lingkaran</h3>
+          <p>Gulung keliling di atas mistar dan temukan rasio $\pi$.</p>
+          <div class="card-foot"><span>Archimedes</span><span>Buka →</span></div>
+        </div>
+      </a>
+
+      <!-- 03 -->
+      <a href="#" class="topic-card">
+        <div class="card-top">
+          <span class="card-num">03</span>
+          <svg width="120" height="70" viewBox="0 0 120 70">
+            <circle cx="40" cy="35" r="22" fill="#ffedd5" stroke="#ea580c" stroke-width="2"/>
+            <path d="M 40 35 L 62 35 A 22 22 0 0 0 55.5 19.4 Z" fill="#fdba74"/>
+            <path d="M 75 25 L 105 25 L 105 45 L 75 45 Z" fill="#ffedd5" stroke="#ea580c" stroke-width="1.5"/>
+          </svg>
+        </div>
+        <div class="card-body">
+          <h3>Luas Lingkaran</h3>
+          <p>Susun juring hingga membentuk persegi panjang.</p>
+          <div class="card-foot"><span>Juring</span><span>Buka →</span></div>
+        </div>
+      </a>
+
+      <!-- 04 -->
+      <a href="#" class="topic-card">
+        <div class="card-top">
+          <span class="card-num">04</span>
+          <span class="card-score">Skor 5/5</span>
+          <svg width="120" height="70" viewBox="0 0 120 70">
+            <circle cx="60" cy="35" r="24" fill="#f5f3ff" stroke="#7c3aed" stroke-width="2"/>
+            <line x1="60" y1="35" x2="42" y2="48" stroke="#0284c7" stroke-width="2"/>
+            <line x1="60" y1="35" x2="78" y2="48" stroke="#0284c7" stroke-width="2"/>
+            <line x1="58" y1="12" x2="42" y2="48" stroke="#d97706" stroke-width="1.8"/>
+            <line x1="58" y1="12" x2="78" y2="48" stroke="#d97706" stroke-width="1.8"/>
+          </svg>
+        </div>
+        <div class="card-body">
+          <h3>Sudut Pusat & Keliling</h3>
+          <p>Buktikan relasi sudut pusat dua kali sudut keliling.</p>
+          <div class="card-foot"><span>Relasi Sudut</span><span>Buka →</span></div>
+        </div>
+      </a>
+
+      <!-- 05 -->
+      <a href="#" class="topic-card">
+        <div class="card-top">
+          <span class="card-num">05</span>
+          <svg width="120" height="70" viewBox="0 0 120 70">
+            <circle cx="60" cy="35" r="24" fill="#ecfdf5" stroke="#059669" stroke-width="2"/>
+            <line x1="42" y1="20" x2="78" y2="50" stroke="#059669" stroke-width="2"/>
+            <line x1="42" y1="50" x2="78" y2="20" stroke="#059669" stroke-width="2"/>
+          </svg>
+        </div>
+        <div class="card-body">
+          <h3>Sudut Tali Busur</h3>
+          <p>Selidiki sudut perpotongan dua tali busur di lingkaran.</p>
+          <div class="card-foot"><span>Tali Busur</span><span>Buka →</span></div>
+        </div>
+      </a>
+
+      <!-- 06 -->
+      <a href="#" class="topic-card">
+        <div class="card-top">
+          <span class="card-num">06</span>
+          <svg width="120" height="70" viewBox="0 0 120 70">
+            <circle cx="60" cy="35" r="24" fill="#fefce8" stroke="#ca8a04" stroke-width="2"/>
+            <polygon points="46,22 75,25 72,52 44,48" fill="#fef08a" stroke="#ca8a04" stroke-width="2"/>
+          </svg>
+        </div>
+        <div class="card-body">
+          <h3>Segi Empat Tali Busur</h3>
+          <p>Sudut berhadapan pada segi empat siklis berjumlah 180°.</p>
+          <div class="card-foot"><span>Siklis</span><span>Buka →</span></div>
+        </div>
+      </a>
+
+      <!-- 07 -->
+      <a href="#" class="topic-card">
+        <div class="card-top">
+          <span class="card-num">07</span>
+          <span class="card-score">Skor 4/5</span>
+          <svg width="120" height="70" viewBox="0 0 120 70">
+            <polygon points="25,55 95,55 55,18" fill="#f0fdfa" stroke="#0f766e" stroke-width="2"/>
+            <circle cx="58" cy="42" r="13" fill="#ccfbf1" stroke="#0d9488" stroke-width="2"/>
+          </svg>
+        </div>
+        <div class="card-body">
+          <h3>Lingkaran Dalam Segitiga</h3>
+          <p>Titik pusat perpotongan garis bagi dan rumus $r = L/s$.</p>
+          <div class="card-foot"><span>Incircle</span><span>Buka →</span></div>
+        </div>
+      </a>
+
+      <!-- 08 -->
+      <a href="#" class="topic-card">
+        <div class="card-top">
+          <span class="card-num">08</span>
+          <svg width="120" height="70" viewBox="0 0 120 70">
+            <circle cx="60" cy="35" r="26" fill="#faf5ff" stroke="#7e22ce" stroke-width="2"/>
+            <polygon points="40,48 80,48 60,12" fill="#f3e8ff" stroke="#7e22ce" stroke-width="2"/>
+          </svg>
+        </div>
+        <div class="card-body">
+          <h3>Lingkaran Luar Segitiga</h3>
+          <p>Pusat perpotongan garis sumbu sisi pada segitiga.</p>
+          <div class="card-foot"><span>Circumcircle</span><span>Buka →</span></div>
+        </div>
+      </a>
+
+      <!-- 09 -->
+      <a href="#" class="topic-card">
+        <div class="card-top">
+          <span class="card-num">09</span>
+          <svg width="120" height="70" viewBox="0 0 120 70">
+            <circle cx="45" cy="35" r="20" fill="#fff7ed" stroke="#ea580c" stroke-width="2"/>
+            <circle cx="95" cy="35" r="3" fill="#dc2626"/>
+            <line x1="95" y1="35" x2="55" y2="17" stroke="#ea580c" stroke-width="2"/>
+            <line x1="95" y1="35" x2="55" y2="53" stroke="#ea580c" stroke-width="2"/>
+          </svg>
+        </div>
+        <div class="card-body">
+          <h3>Garis Singgung Lingkaran</h3>
+          <p>Jari-jari selalu tegak lurus garis singgung di titik kontak.</p>
+          <div class="card-foot"><span>Persekutuan</span><span>Buka →</span></div>
+        </div>
+      </a>
+
+      <!-- 10 -->
+      <a href="#" class="topic-card">
+        <div class="card-top">
+          <span class="card-num">10</span>
+          <span class="card-score">Skor 5/5</span>
+          <svg width="120" height="70" viewBox="0 0 120 70">
+            <circle cx="42" cy="35" r="20" fill="#fef3c7" stroke="#b45309" stroke-width="2"/>
+            <circle cx="78" cy="35" r="16" fill="#e0f2fe" stroke="#0284c7" stroke-width="2"/>
+            <line x1="42" y1="35" x2="78" y2="35" stroke="#475569" stroke-width="1.5" stroke-dasharray="2 2"/>
+          </svg>
+        </div>
+        <div class="card-body">
+          <h3>Kedudukan Dua Lingkaran</h3>
+          <p>Klasifikasi spasial jarak pusat $d$ terhadap $R \pm r$.</p>
+          <div class="card-foot"><span>Spasial</span><span>Buka →</span></div>
+        </div>
+      </a>
+    </section>
+
+    <footer class="home-footer">
+      <p>Simulasi Lingkaran SMP · Kurikulum Merdeka · Bekerja 100% Offline</p>
+    </footer>
+  </div>
+</body>
+</html>

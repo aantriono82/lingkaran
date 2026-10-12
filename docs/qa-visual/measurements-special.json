@@ -1,0 +1,132 @@
+{
+  "viewport": "special",
+  "timestamp": "2026-10-11T10:22:50.994Z",
+  "overflow": [],
+  "fonts": [],
+  "touch": [],
+  "contrast": [],
+  "sticky": [],
+  "special": [],
+  "dragAccuracy": [
+    {
+      "topicId": "01-unsur",
+      "w": 360,
+      "mode": "normal",
+      "error": "none"
+    },
+    {
+      "topicId": "04-sudut",
+      "w": 360,
+      "mode": "normal",
+      "error": "none"
+    },
+    {
+      "topicId": "07-dalam-segitiga",
+      "w": 360,
+      "mode": "normal",
+      "error": "none"
+    },
+    {
+      "topicId": "09-garis-singgung",
+      "w": 360,
+      "mode": "normal",
+      "error": "none"
+    },
+    {
+      "topicId": "10-kedudukan",
+      "w": 360,
+      "mode": "normal",
+      "error": "none"
+    },
+    {
+      "topicId": "01-unsur",
+      "w": 1920,
+      "mode": "normal",
+      "error": "none"
+    },
+    {
+      "topicId": "04-sudut",
+      "w": 1920,
+      "mode": "normal",
+      "error": "none"
+    },
+    {
+      "topicId": "07-dalam-segitiga",
+      "w": 1920,
+      "mode": "normal",
+      "error": "none"
+    },
+    {
+      "topicId": "09-garis-singgung",
+      "w": 1920,
+      "mode": "normal",
+      "error": "none"
+    },
+    {
+      "topicId": "10-kedudukan",
+      "w": 1920,
+      "mode": "normal",
+      "error": "none"
+    },
+    {
+      "topicId": "01-unsur",
+      "w": 1920,
+      "mode": "kelas",
+      "error": "none"
+    },
+    {
+      "topicId": "04-sudut",
+      "w": 1920,
+      "mode": "kelas",
+      "error": "none"
+    },
+    {
+      "topicId": "07-dalam-segitiga",
+      "w": 1920,
+      "mode": "kelas",
+      "error": "none"
+    },
+    {
+      "topicId": "09-garis-singgung",
+      "w": 1920,
+      "mode": "kelas",
+      "error": "none"
+    },
+    {
+      "topicId": "10-kedudukan",
+      "w": 1920,
+      "mode": "kelas",
+      "error": "none"
+    }
+  ],
+  "reducedMotion": {
+    "exists": false
+  },
+  "cpuThrottling": [
+    {
+      "topicId": "03-luas",
+      "error": "none"
+    },
+    {
+      "topicId": "04-sudut",
+      "error": "none"
+    },
+    {
+      "topicId": "07-dalam-segitiga",
+      "error": "none"
+    },
+    {
+      "topicId": "10-kedudukan",
+      "error": "none"
+    }
+  ],
+  "serviceWorker": {
+    "active": true,
+    "badgeSiap": false
+  },
+  "offlineReload": {
+    "title": "Unsur-unsur lingkaran",
+    "hasSvg": true,
+    "fontsOk": true
+  }
+}

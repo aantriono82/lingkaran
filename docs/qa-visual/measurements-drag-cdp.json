@@ -1,0 +1,302 @@
+[
+  {
+    "topicId": "01-unsur",
+    "width": 360,
+    "mode": "normal",
+    "start": {
+      "x": 242,
+      "y": 637
+    },
+    "target": {
+      "x": 272,
+      "y": 657
+    },
+    "final": {
+      "x": 241.55,
+      "y": 637.19
+    },
+    "dx": -0.44999999999998863,
+    "dy": 0.19000000000005457,
+    "deltaFromTarget": 36.33
+  },
+  {
+    "topicId": "04-sudut",
+    "width": 360,
+    "mode": "normal",
+    "start": {
+      "x": 115,
+      "y": 671
+    },
+    "target": {
+      "x": 145,
+      "y": 691
+    },
+    "final": {
+      "x": 114.87,
+      "y": 670.72
+    },
+    "dx": -0.12999999999999545,
+    "dy": -0.2799999999999727,
+    "deltaFromTarget": 36.32
+  },
+  {
+    "topicId": "07-dalam-segitiga",
+    "width": 360,
+    "mode": "normal",
+    "start": {
+      "x": 100,
+      "y": 713
+    },
+    "target": {
+      "x": 130,
+      "y": 733
+    },
+    "final": {
+      "x": 99.86,
+      "y": 713.49
+    },
+    "dx": -0.14000000000000057,
+    "dy": 0.4900000000000091,
+    "deltaFromTarget": 35.9
+  },
+  {
+    "topicId": "09-garis-singgung",
+    "width": 360,
+    "mode": "normal",
+    "start": {
+      "x": 202,
+      "y": 679
+    },
+    "target": {
+      "x": 232,
+      "y": 699
+    },
+    "final": {
+      "x": 201.6,
+      "y": 679.4
+    },
+    "dx": -0.4000000000000057,
+    "dy": 0.39999999999997726,
+    "deltaFromTarget": 36.17
+  },
+  {
+    "topicId": "10-kedudukan",
+    "width": 360,
+    "mode": "normal",
+    "start": {
+      "x": 102,
+      "y": 703
+    },
+    "target": {
+      "x": 132,
+      "y": 723
+    },
+    "final": {
+      "x": 102.21,
+      "y": 703.47
+    },
+    "dx": 0.20999999999999375,
+    "dy": 0.4700000000000273,
+    "deltaFromTarget": 35.62
+  },
+  {
+    "topicId": "01-unsur",
+    "width": 1920,
+    "mode": "normal",
+    "start": {
+      "x": 829,
+      "y": 631
+    },
+    "target": {
+      "x": 859,
+      "y": 651
+    },
+    "final": {
+      "x": 839.22,
+      "y": 657.11
+    },
+    "dx": 10.220000000000027,
+    "dy": 26.110000000000014,
+    "deltaFromTarget": 20.7
+  },
+  {
+    "topicId": "04-sudut",
+    "width": 1920,
+    "mode": "normal",
+    "start": {
+      "x": 474,
+      "y": 656
+    },
+    "target": {
+      "x": 504,
+      "y": 676
+    },
+    "final": {
+      "x": 470.28,
+      "y": 667.83
+    },
+    "dx": -3.7200000000000273,
+    "dy": 11.830000000000041,
+    "deltaFromTarget": 34.7
+  },
+  {
+    "topicId": "07-dalam-segitiga",
+    "width": 1920,
+    "mode": "normal",
+    "start": {
+      "x": 431,
+      "y": 873
+    },
+    "target": {
+      "x": 461,
+      "y": 893
+    },
+    "final": {
+      "x": 461.5,
+      "y": 893.01
+    },
+    "dx": 30.5,
+    "dy": 20.00999999999999,
+    "deltaFromTarget": 0.5
+  },
+  {
+    "topicId": "09-garis-singgung",
+    "width": 1920,
+    "mode": "normal",
+    "start": {
+      "x": 638,
+      "y": 768
+    },
+    "target": {
+      "x": 668,
+      "y": 788
+    },
+    "final": {
+      "x": 635.02,
+      "y": 774.31
+    },
+    "dx": -2.980000000000018,
+    "dy": 6.309999999999945,
+    "deltaFromTarget": 35.71
+  },
+  {
+    "topicId": "10-kedudukan",
+    "width": 1920,
+    "mode": "normal",
+    "start": {
+      "x": 438,
+      "y": 715
+    },
+    "target": {
+      "x": 468,
+      "y": 735
+    },
+    "final": {
+      "x": 468.11,
+      "y": 735.35
+    },
+    "dx": 30.110000000000014,
+    "dy": 20.350000000000023,
+    "deltaFromTarget": 0.37
+  },
+  {
+    "topicId": "01-unsur",
+    "width": 1920,
+    "mode": "kelas",
+    "start": {
+      "x": 829,
+      "y": 659
+    },
+    "target": {
+      "x": 859,
+      "y": 679
+    },
+    "final": {
+      "x": 839.22,
+      "y": 685.11
+    },
+    "dx": 10.220000000000027,
+    "dy": 26.110000000000014,
+    "deltaFromTarget": 20.7
+  },
+  {
+    "topicId": "04-sudut",
+    "width": 1920,
+    "mode": "kelas",
+    "start": {
+      "x": 474,
+      "y": 684
+    },
+    "target": {
+      "x": 504,
+      "y": 704
+    },
+    "final": {
+      "x": 470.28,
+      "y": 695.83
+    },
+    "dx": -3.7200000000000273,
+    "dy": 11.830000000000041,
+    "deltaFromTarget": 34.7
+  },
+  {
+    "topicId": "07-dalam-segitiga",
+    "width": 1920,
+    "mode": "kelas",
+    "start": {
+      "x": 431,
+      "y": 901
+    },
+    "target": {
+      "x": 461,
+      "y": 921
+    },
+    "final": {
+      "x": 461.5,
+      "y": 921.01
+    },
+    "dx": 30.5,
+    "dy": 20.00999999999999,
+    "deltaFromTarget": 0.5
+  },
+  {
+    "topicId": "09-garis-singgung",
+    "width": 1920,
+    "mode": "kelas",
+    "start": {
+      "x": 638,
+      "y": 796
+    },
+    "target": {
+      "x": 668,
+      "y": 816
+    },
+    "final": {
+      "x": 635.02,
+      "y": 802.31
+    },
+    "dx": -2.980000000000018,
+    "dy": 6.309999999999945,
+    "deltaFromTarget": 35.71
+  },
+  {
+    "topicId": "10-kedudukan",
+    "width": 1920,
+    "mode": "kelas",
+    "start": {
+      "x": 438,
+      "y": 743
+    },
+    "target": {
+      "x": 468,
+      "y": 763
+    },
+    "final": {
+      "x": 468.11,
+      "y": 763.35
+    },
+    "dx": 30.110000000000014,
+    "dy": 20.350000000000023,
+    "deltaFromTarget": 0.37
+  }
+]
