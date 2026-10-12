@@ -28,4 +28,24 @@ describe('penempatan label unsur', () => {
       for (let j = i + 1; j < hasil.length; j += 1) expect(labelBeririsan(hasil[i], hasil[j])).toBe(false);
     }
   });
+
+  it('mode tidak ringkas (satu per satu) tidak menghasilkan badge nomor dan tidak beririsan', () => {
+    const pusat = { x: 350, y: 215 };
+    const radius = 145;
+    const hasil = hitungLayoutLabel({
+      pusat,
+      radius,
+      titikA: titikDariSudut(pusat, radius, -0.45),
+      titikB: titikDariSudut(pusat, radius, 2.25),
+      awalBusur: -0.45,
+      akhirBusur: 2.25,
+      tampil: SEMUA_UNSUR,
+      ringkas: false
+    });
+    expect(hasil).toHaveLength(8);
+    expect(hasil.every((item) => item.badge === false)).toBe(true);
+    for (let i = 0; i < hasil.length; i += 1) {
+      for (let j = i + 1; j < hasil.length; j += 1) expect(labelBeririsan(hasil[i], hasil[j])).toBe(false);
+    }
+  });
 });

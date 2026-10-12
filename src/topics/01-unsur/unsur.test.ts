@@ -20,4 +20,28 @@ describe('himpunan unsur yang tampil', () => {
     expect(ditambah).toEqual(new Set(['jariJari', 'diameter', 'taliBusur']));
     expect(dihapus).toEqual(new Set(['jariJari', 'taliBusur']));
   });
+
+  it('unsur tetap tampil saat unsur lain diklik dan hilang saat diklik kembali', () => {
+    let aktif = new Set<Unsur>(['jariJari']);
+    aktif = toggleUnsur(aktif, 'diameter');
+    expect(aktif.has('jariJari')).toBe(true);
+    expect(aktif.has('diameter')).toBe(true);
+    expect(aktif.size).toBe(2);
+
+    aktif = toggleUnsur(aktif, 'busur');
+    expect(aktif.has('jariJari')).toBe(true);
+    expect(aktif.has('diameter')).toBe(true);
+    expect(aktif.has('busur')).toBe(true);
+    expect(aktif.size).toBe(3);
+
+    aktif = toggleUnsur(aktif, 'diameter');
+    expect(aktif.has('jariJari')).toBe(true);
+    expect(aktif.has('diameter')).toBe(false);
+    expect(aktif.has('busur')).toBe(true);
+    expect(aktif.size).toBe(2);
+
+    aktif = toggleUnsur(aktif, 'busur');
+    aktif = toggleUnsur(aktif, 'jariJari');
+    expect(aktif.size).toBe(0);
+  });
 });

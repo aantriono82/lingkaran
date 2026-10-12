@@ -106,6 +106,8 @@ export function ExploreUnsur() {
     return hasil;
   }, [geometri, tampil]);
   const fokusAktif = fokus && tampil.has(fokus) ? fokus : null;
+  const semuaAktif = adalahSemuaUnsur(tampil);
+  const satuPerSatuAktif = modeTampilan === 'satu';
   const penempatanLabel = useMemo(() => hitungLayoutLabel({
     pusat,
     radius,
@@ -115,18 +117,17 @@ export function ExploreUnsur() {
     akhirBusur: geometri.rentangBusur.akhir,
     tampil: SEMUA_UNSUR.filter((id) => {
       if (!tampilYangBisaDigambar.has(id)) return false;
-      const labelRingkas = tampilYangBisaDigambar.size >= 4;
+      const labelRingkas = modeTampilan !== 'satu' && tampilYangBisaDigambar.size >= 4;
       const bergantungPadaTaliPendek = id === 'taliBusur' || id === 'busur' || id === 'juring' || id === 'tembereng' || id === 'apotema';
       return labelRingkas || geometri.labelTaliMuatan || !bergantungPadaTaliPendek;
     }),
-    ringkas: tampilYangBisaDigambar.size >= 4
-  }), [geometri, radius, tampilYangBisaDigambar]);
+    ringkas: modeTampilan !== 'satu' && (semuaAktif || tampilYangBisaDigambar.size >= 4)
+  }), [geometri, modeTampilan, radius, semuaAktif, tampilYangBisaDigambar]);
   const pathTembereng = buatPathTembereng(geometri, pusat, radius);
-  const semuaAktif = adalahSemuaUnsur(tampil);
   const namaJudul = fokusAktif
     ? UNSUR_INFO[fokusAktif].nama
     : tampilYangBisaDigambar.size > 1
-      ? 'Semua unsur'
+      ? (semuaAktif ? 'Semua unsur' : 'Unsur pilihan')
       : tampilYangBisaDigambar.size === 1
         ? UNSUR_INFO[Array.from(tampilYangBisaDigambar)[0]].nama
         : 'Belum ada unsur';
@@ -136,25 +137,21 @@ export function ExploreUnsur() {
   }
 
   function fokuskan(id: Unsur): void {
-    if (modeTampilan === 'satu') {
-      const sudahFokus = tampil.size === 1 && tampil.has(id) && fokus === id;
-      setTampil(new Set([id]));
-      setFokus(sudahFokus ? null : id);
-      return;
+    if (!tampil.has(id)) {
+      setTampil((sebelumnya) => new Set(sebelumnya).add(id));
+      setModeTampilan('satu');
     }
-    if (!tampil.has(id)) setTampil((sebelumnya) => new Set(sebelumnya).add(id));
-    setFokus((sebelumnya) => sebelumnya === id ? null : id);
+    setFokus((sebelumnya) => (sebelumnya === id ? null : id));
   }
 
   function ubahTampilan(id: Unsur): void {
-    if (modeTampilan === 'satu') {
-      setTampil(new Set([id]));
-      setFokus(id);
-      return;
-    }
     const sedangTampil = tampil.has(id);
-    setTampil(toggleUnsur(tampil, id));
+    const berikutnya = toggleUnsur(tampil, id);
+    setTampil(berikutnya);
     setFokus((sebelumnya) => sedangTampil && sebelumnya === id ? null : sedangTampil ? sebelumnya : id);
+    if (modeTampilan === 'bebas' && !adalahSemuaUnsur(berikutnya)) {
+      setModeTampilan('satu');
+    }
   }
 
   function tampilkanSemua(): void {
@@ -243,8 +240,8 @@ export function ExploreUnsur() {
               <Arc pusat={pusat} radius={radius} sudutAwal={geometri.rentangBusur.awal} sudutAkhir={geometri.rentangBusur.akhir} warna={UNSUR_INFO.busur.warna} tebal={9} />
             </SelectableUnsur>
           )}
-          {(tampilYangBisaDigambar.has('pusat') || (modeTampilan === 'satu' && tampil.has('jariJari'))) && (
-            <SelectableUnsur id="pusat" redup={tampilYangBisaDigambar.has('pusat') && redupkan('pusat')} onFocus={fokuskan}>
+          {tampilYangBisaDigambar.has('pusat') && (
+            <SelectableUnsur id="pusat" redup={redupkan('pusat')} onFocus={fokuskan}>
               <Circle pusat={pusat} radius={6} warna={UNSUR_INFO.pusat.warna} isi={UNSUR_INFO.pusat.warna} tebal={1} />
             </SelectableUnsur>
           )}
@@ -259,7 +256,7 @@ export function ExploreUnsur() {
       <aside className="control-card">
         <div className="control-card-heading"><div><span className="eyebrow">Pilih unsur</span><h2>{namaJudul}</h2></div><button type="button" className="reset-button" onClick={reset}>↻ Reset</button></div>
         <div className="unsur-actions" aria-label="Mode tampilan unsur">
-          <button type="button" className={modeTampilan === 'satu' ? 'all-button aktif' : 'all-button'} aria-pressed={modeTampilan === 'satu'} onClick={tampilkanSatu}>Satu per satu</button>
+          <button type="button" className={satuPerSatuAktif ? 'all-button aktif' : 'all-button'} aria-pressed={satuPerSatuAktif} onClick={tampilkanSatu}>Satu per satu</button>
           <button type="button" className={semuaAktif ? 'all-button aktif' : 'all-button'} aria-pressed={semuaAktif} onClick={tampilkanSemua}>Tampilkan semua</button>
           <button type="button" className="reset-button" onClick={kosongkan}>Kosongkan</button>
         </div>
